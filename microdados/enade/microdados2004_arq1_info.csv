@@ -1,0 +1,12 @@
+Coluna,Tipo
+NU_ANO,Inteiro
+CO_CURSO,Inteiro
+PESO_AMOSTRA,Float
+TP_INSCRICAO,Inteiro
+CO_IES,Inteiro
+CO_CATEGAD,Inteiro
+CO_ORGACAD,Inteiro
+CO_GRUPO,Inteiro
+CO_MUNIC_CURSO,Inteiro
+CO_UF_CURSO,Inteiro
+CO_REGIAO_CURSO,Inteiro

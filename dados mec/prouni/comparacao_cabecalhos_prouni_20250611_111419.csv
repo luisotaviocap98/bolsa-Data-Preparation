@@ -1,0 +1,25 @@
+arquivo_1,arquivo_2,coluna,comparacao,possiveis_candidatas
+pda-prouni-2005.csv,ProuniRelatorioDadosAbertos2020.csv,ANO_CONCESSAO_BOLSA,presente em ambos arquivos,
+pda-prouni-2005.csv,ProuniRelatorioDadosAbertos2020.csv,BENEFICIARIO_DEFICIENTE_FISICO,presente em ambos arquivos,
+pda-prouni-2005.csv,ProuniRelatorioDadosAbertos2020.csv,CODIGO_EMEC_IES_BOLSA,presente em ambos arquivos,
+pda-prouni-2005.csv,ProuniRelatorioDadosAbertos2020.csv,MODALIDADE_ENSINO_BOLSA,presente em ambos arquivos,
+pda-prouni-2005.csv,ProuniRelatorioDadosAbertos2020.csv,NOME_CURSO_BOLSA,presente em ambos arquivos,
+pda-prouni-2005.csv,ProuniRelatorioDadosAbertos2020.csv,NOME_IES_BOLSA,presente em ambos arquivos,
+pda-prouni-2005.csv,ProuniRelatorioDadosAbertos2020.csv,NOME_TURNO_CURSO_BOLSA,presente em ambos arquivos,
+pda-prouni-2005.csv,ProuniRelatorioDadosAbertos2020.csv,TIPO_BOLSA,presente em ambos arquivos,
+pda-prouni-2005.csv,ProuniRelatorioDadosAbertos2020.csv,CPF_BENEFICIARIO_BOLSA,somente no arquivo_1,RACA_BENEFICIARIO/SEXO_BENEFICIARIO/UF_BENEFICIARIO/CPF_BENEFICIARIO
+pda-prouni-2005.csv,ProuniRelatorioDadosAbertos2020.csv,DT_NASCIMENTO_BENEFICIARIO,somente no arquivo_1,MUNICIPIO_BENEFICIARIO/RACA_BENEFICIARIO/SEXO_BENEFICIARIO/UF_BENEFICIARIO/REGIAO_BENEFICIARIO/CPF_BENEFICIARIO
+pda-prouni-2005.csv,ProuniRelatorioDadosAbertos2020.csv,MUNICIPIO_BENEFICIARIO_BOLSA,somente no arquivo_1,MUNICIPIO/MUNICIPIO_BENEFICIARIO/RACA_BENEFICIARIO/SEXO_BENEFICIARIO/UF_BENEFICIARIO/REGIAO_BENEFICIARIO/CPF_BENEFICIARIO
+pda-prouni-2005.csv,ProuniRelatorioDadosAbertos2020.csv,RACA_BENEFICIARIO_BOLSA,somente no arquivo_1,RACA_BENEFICIARIO/SEXO_BENEFICIARIO/UF_BENEFICIARIO/REGIAO_BENEFICIARIO/CPF_BENEFICIARIO
+pda-prouni-2005.csv,ProuniRelatorioDadosAbertos2020.csv,REGIAO_BENEFICIARIO_BOLSA,somente no arquivo_1,RACA_BENEFICIARIO/SEXO_BENEFICIARIO/UF_BENEFICIARIO/REGIAO_BENEFICIARIO/CPF_BENEFICIARIO
+pda-prouni-2005.csv,ProuniRelatorioDadosAbertos2020.csv,SEXO_BENEFICIARIO_BOLSA,somente no arquivo_1,RACA_BENEFICIARIO/SEXO_BENEFICIARIO/UF_BENEFICIARIO/REGIAO_BENEFICIARIO/CPF_BENEFICIARIO
+pda-prouni-2005.csv,ProuniRelatorioDadosAbertos2020.csv,SIGLA_UF_BENEFICIARIO_BOLSA,somente no arquivo_1,RACA_BENEFICIARIO/SEXO_BENEFICIARIO/UF_BENEFICIARIO/REGIAO_BENEFICIARIO/CPF_BENEFICIARIO
+pda-prouni-2005.csv,ProuniRelatorioDadosAbertos2020.csv,CAMPUS,somente no arquivo_2,
+pda-prouni-2005.csv,ProuniRelatorioDadosAbertos2020.csv,CPF_BENEFICIARIO,somente no arquivo_2,CPF_BENEFICIARIO_BOLSA
+pda-prouni-2005.csv,ProuniRelatorioDadosAbertos2020.csv,DATA_NASCIMENTO,somente no arquivo_2,
+pda-prouni-2005.csv,ProuniRelatorioDadosAbertos2020.csv,MUNICIPIO,somente no arquivo_2,MUNICIPIO_BENEFICIARIO_BOLSA
+pda-prouni-2005.csv,ProuniRelatorioDadosAbertos2020.csv,MUNICIPIO_BENEFICIARIO,somente no arquivo_2,DT_NASCIMENTO_BENEFICIARIO/MUNICIPIO_BENEFICIARIO_BOLSA
+pda-prouni-2005.csv,ProuniRelatorioDadosAbertos2020.csv,RACA_BENEFICIARIO,somente no arquivo_2,RACA_BENEFICIARIO_BOLSA
+pda-prouni-2005.csv,ProuniRelatorioDadosAbertos2020.csv,REGIAO_BENEFICIARIO,somente no arquivo_2,RACA_BENEFICIARIO_BOLSA/REGIAO_BENEFICIARIO_BOLSA/SEXO_BENEFICIARIO_BOLSA
+pda-prouni-2005.csv,ProuniRelatorioDadosAbertos2020.csv,SEXO_BENEFICIARIO,somente no arquivo_2,SEXO_BENEFICIARIO_BOLSA
+pda-prouni-2005.csv,ProuniRelatorioDadosAbertos2020.csv,UF_BENEFICIARIO,somente no arquivo_2,CPF_BENEFICIARIO_BOLSA/SIGLA_UF_BENEFICIARIO_BOLSA

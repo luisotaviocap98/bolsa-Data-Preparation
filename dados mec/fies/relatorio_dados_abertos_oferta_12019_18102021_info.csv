@@ -1,0 +1,66 @@
+Coluna,Tipo
+Ano,Inteiro
+Semestre,Inteiro
+Nome Mantenedora,String
+Código e-MEC da Mantenedora,Inteiro
+CNPJ da mantenedora,Inteiro
+Nome da IES,String
+Código e-MEC da IES,Inteiro
+Organização Acadêmica da IES,String
+UF da IES,String
+Município da IES,String
+Nome do Local de oferta,String
+Código do Local de Oferta,Inteiro
+Município do Local de Oferta,String
+UF do Local de Oferta,String
+Nome da Microrregião,String
+Código da Microrregião,Inteiro
+Código da Mesorregião,Inteiro
+Nome da Mesorregião,String
+Área do conhecimento,String
+Subárea do conhecimento,String
+Código do Grupo de Preferência,Inteiro
+ Nota de Corte Grupo Preferência ,String
+Código do Curso,Inteiro
+Nome do Curso,String
+Turno,String
+Grau,String
+Conceito,String
+Vagas autorizadas e-mec,Inteiro
+Vagas ofertadas FIES,Inteiro
+Vagas além da Oferta,Inteiro
+Vagas ocupadas,Inteiro
+Participa do P-FIES,String
+Vagas Ofertadas P-FIES,Inteiro
+BANCO NORDESTE BRASIL   (004),String
+ITAU UNIBANCO (PRAVALER)(341),String
+BV FINANCEIRA (PRAVALER)(455),String
+BANCO ANDBANK (PRAVALER)(65),String
+BANCO DA AMAZONIA S.A.  (003),String
+ Valor bruto do curso ,String
+ 1 Semestre Bruto ,String
+ 2 Semestre Bruto ,String
+ 3 Semestre Bruto ,String
+ 4 Semestre Bruto ,String
+ 5 Semestre Bruto ,String
+ 6 Semestre Bruto ,String
+ 7 Semestre Bruto ,String
+ 8 Semestre Bruto ,String
+ 9 Semestre Bruto ,String
+ 10 Semestre Bruto ,String
+ 11 Semestre Bruto ,String
+ 12 Semestre Bruto ,String
+ Valor do curso para FIES ,String
+ Índice de correção - IPCA ,String
+ 1 Semestre FIES ,String
+ 2 Semestre FIES ,String
+ 3 Semestre FIES ,String
+ 4 Semestre FIES ,String
+ 5 Semestre FIES ,String
+ 6 Semestre FIES ,String
+ 7 Semestre FIES ,String
+ 8 Semestre FIES ,String
+ 9 Semestre FIES ,String
+ 10 Semestre FIES ,String
+ 11 Semestre FIES ,String
+ 12 Semestre FIES ,String
