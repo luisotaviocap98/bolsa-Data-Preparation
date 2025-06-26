@@ -86,7 +86,7 @@ def encontrar_arquivos_csv_xlsx(diretorio_inicial):
     
     try:
         for file in os.listdir(diretorio_inicial):
-            if file.lower().endswith((".csv", ".xlsx")) and not file.lower().startswith('comparacao_cabecalhos') and not file.lower().endswith('info.csv') and not file.lower().endswith('sample.csv'):
+            if file.lower().endswith((".csv", ".xlsx", '.xls')) and not file.lower().startswith('comparacao_cabecalhos') and not file.lower().endswith('info.csv') and not file.lower().endswith('sample.csv'):
                 arquivos.append(os.path.join(diretorio_inicial, file))
     except Exception:
         return arquivos
@@ -150,9 +150,9 @@ def ler_cabecalho(arquivo):
                         df = df_alt
                         break
                     
-        elif arquivo.lower().endswith(".xlsx"): #Ler Excel
+        elif arquivo.lower().endswith(".xlsx") or arquivo.lower().endswith(".xls"): #Ler Excel
             df = pd.read_excel(arquivo, nrows=0)
-            gerar_infos(arquivo)
+            gerar_infos(arquivo, csv=False)
                         
         else:
             return None

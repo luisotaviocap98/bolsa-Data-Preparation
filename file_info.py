@@ -17,11 +17,11 @@ def parece_hora(serie):
     convertidos = pd.to_timedelta(serie, errors='coerce')
     return convertidos.notna().all()
 
-def gerar_infos(caminho, codec, separador, tipo='CSV'):
+def gerar_infos(caminho, codec=None, separador=None, csv = True):
     diretorio = os.path.dirname(caminho) # Obter diretorio do arquivo
     arquivo = os.path.splitext(os.path.basename(caminho))[0] # Obter nome do arquivo
     
-    if tipo == 'CSV':
+    if csv:
         df = pd.read_csv(caminho, nrows=1000, encoding=codec, sep=separador) # Ler CSV
     else:
         df = pd.read_excel(caminho, nrows=1000) # Ler excel
@@ -56,5 +56,5 @@ def gerar_infos(caminho, codec, separador, tipo='CSV'):
     df_info[['Coluna','Tipo']].to_csv(nome_arquivo,index=False) # Salvar as informações de tipos de dados
 
     nome_arquivo = os.path.join(diretorio, f'{arquivo}_sample.csv')
-    df.sample(n=100, random_state=42).to_csv(nome_arquivo,index=False) # Gerar um sample do arquivo original
+    df.sample(n=min(100, int(len(df)/2)), random_state=42).to_csv(nome_arquivo,index=False) # Gerar um sample do arquivo original
     
