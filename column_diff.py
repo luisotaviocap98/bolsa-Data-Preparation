@@ -2,6 +2,7 @@ import os
 import pandas as pd
 from datetime import datetime
 import re
+import regex
 import unicodedata
 import jellyfish as jf
 from file_info import gerar_infos
@@ -18,7 +19,7 @@ def padronizar_string(texto):
     """
     
     texto = texto.lower().strip() # Trasnformar para minúsculo e remover espaços no ínicio e fim
-    texto = re.sub('[-_. ]','',texto) # Remover caracteres especiais e espaços internos
+    texto = ''.join(regex.findall(r'[a-zA-ZÀ-ÿ0-9]', texto)) # Remover caracteres especiais e espaços internos
     texto_normalizado = unicodedata.normalize('NFKD', texto) # Normaliza o texto para separar acentos das letras
     texto = ''.join(c for c in texto_normalizado if not unicodedata.combining(c)) # Remove os caracteres que não são ASCII (ou seja, os acentos)
     

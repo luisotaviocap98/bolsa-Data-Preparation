@@ -1,0 +1,25 @@
+Coluna,Tipo
+Agency Number - Agency Name,String
+Agency Contract No.,String
+Agency Contract Amendment No.,String
+"Contractor Name
+(Search for Vendor)",String
+Contractor Name D/B/A (Optional),String
+Statewide Vendor Number (Optional),String
+Purpose of the Contract,String
+Purpose of the Contract Description (Optional),String
+Contract Effective Start Date,String
+Contract Effective End Date,String
+Period of Performance Start Date,String
+Period of Performance End Date,String
+Federal Amount,String
+State Amount,String
+Other Amount,String
+Cost of Contract,String
+Explanation of Costs (Optional),String
+Contract Modifications,String
+Procurement Type,String
+Non-Financial Contract Yes/No (Optional),String
+Minority/Woman Owned,String
+Small Business,String
+Veteran,String

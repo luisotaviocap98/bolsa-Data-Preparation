@@ -1,0 +1,49 @@
+Coluna,Tipo
+Year,Inteiro
+Town,String
+Net Investment In Capital Assets,Inteiro
+Unrestricted Net Position,Inteiro
+Total Net Position,Inteiro
+Change In Net Position,Inteiro
+Nonspendable Fund Balance,Inteiro
+Restricted Fund Balance,Inteiro
+Committed Fund Balance,Inteiro
+Assigned Fund Balance,Inteiro
+Total Fund Balance,Inteiro
+Unassigned Fund Balance,Inteiro
+Unrestricted Fund Balance,Inteiro
+Restatement Fund Balance Flag,Booleano
+Inter Gov Revenue,Inteiro
+Tax Revenue,Inteiro
+Total Revenue,Inteiro
+Education,Inteiro
+Annual Debt Service,Inteiro
+Total Expenditures,Inteiro
+Total Transfers In,Inteiro
+Other Financing Sources,Inteiro
+Total Trans To General Fund,Inteiro
+Other Financing Uses,Inteiro
+Operating Surplus Deficit Including Transactions,Inteiro
+Previous Year Operating Surplus Def Including Transactions,Inteiro
+Operating Surplus Deficit Including Sources and Uses,Inteiro
+Special Or Extraordinary Items,Inteiro
+Large Deficit Indicator Entprise Fund,Inteiro
+Large Deficit Indicator Internal Service Fund,Inteiro
+Regional School District (RSD) Debt,Inteiro
+Town Bonded Long Term Debt,Inteiro
+Total Bonded Long-Term Debt,Inteiro
+Net Pension Liability,Inteiro
+Current Year Adjusted Taxes Collectible,Inteiro
+Current Year Taxes Collected,Inteiro
+Property Tax Collection Rate (current Year),Float
+Total Adjusted Taxes Collectible,Inteiro
+Total Taxes Collected,Inteiro
+Overall Tot Tax Colleton Rate,Float
+Population,Inteiro
+Area Limit,Float
+Net Grand List,Inteiro
+EGL,Float
+RPA Identifier,String
+Deficit Bonds,Booleano
+10-Year Scheduled Repayment Principal Amount,Inteiro
+Total Net OPEB Liability,Inteiro

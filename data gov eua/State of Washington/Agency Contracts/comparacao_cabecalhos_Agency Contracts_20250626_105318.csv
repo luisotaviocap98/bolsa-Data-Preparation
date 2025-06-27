@@ -1,0 +1,77 @@
+arquivo_1,arquivo_2,coluna,comparacao,possiveis_candidatas
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2019.csv,Agency Contract No.,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2019.csv,Agency Name,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2019.csv,Contract Effective End Date,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2019.csv,Contract Effective Start Date,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2019.csv,Contractor Name,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2019.csv,Contractor Name D/B/A (Optional),presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2019.csv,Cost of Contract,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2019.csv,Explanation of Costs (Optional),presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2019.csv,Federal Amount,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2019.csv,Other Amount,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2019.csv,Period of Performance End Date,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2019.csv,Period of Performance Start Date,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2019.csv,Procurement Type (Competitive or Non-Competitive),presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2019.csv,Purpose of the Contract ,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2019.csv,Purpose of the Contract Description (Optional),presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2019.csv,Small Business Status (Optional),presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2019.csv,State Amount,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2019.csv,Statewide Vendor Number (Optional),somente no arquivo_2,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2024.csv,Agency Contract No.,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2024.csv,Contract Effective End Date,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2024.csv,Contract Effective Start Date,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2024.csv,Contractor Name D/B/A (Optional),presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2024.csv,Cost of Contract,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2024.csv,Explanation of Costs (Optional),presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2024.csv,Federal Amount,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2024.csv,Other Amount,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2024.csv,Period of Performance End Date,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2024.csv,Period of Performance Start Date,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2024.csv,Purpose of the Contract ,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2024.csv,Purpose of the Contract Description (Optional),presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2024.csv,State Amount,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2024.csv,Agency Name,somente no arquivo_1,Agency Number - Agency Name
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2024.csv,Contractor Name,somente no arquivo_1,"Contractor Name
+(Search for Vendor)"
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2024.csv,Procurement Type (Competitive or Non-Competitive),somente no arquivo_1,Procurement Type
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2024.csv,Small Business Status (Optional),somente no arquivo_1,Small Business
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2024.csv,Agency Contract Amendment No.,somente no arquivo_2,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2024.csv,Agency Number - Agency Name,somente no arquivo_2,Agency Name
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2024.csv,Contract Modifications,somente no arquivo_2,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2024.csv,"Contractor Name
+(Search for Vendor)",somente no arquivo_2,Contractor Name
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2024.csv,Minority/Woman Owned,somente no arquivo_2,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2024.csv,Non-Financial Contract Yes/No (Optional),somente no arquivo_2,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2024.csv,Procurement Type,somente no arquivo_2,Procurement Type (Competitive or Non-Competitive)
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2024.csv,Small Business,somente no arquivo_2,Small Business Status (Optional)
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2024.csv,Statewide Vendor Number (Optional),somente no arquivo_2,
+Agency_Contracts_Fiscal_Year_2014.csv,Agency_Contracts_Fiscal_Year_2024.csv,Veteran,somente no arquivo_2,
+Agency_Contracts_Fiscal_Year_2019.csv,Agency_Contracts_Fiscal_Year_2024.csv,Agency Contract No.,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2019.csv,Agency_Contracts_Fiscal_Year_2024.csv,Contract Effective End Date,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2019.csv,Agency_Contracts_Fiscal_Year_2024.csv,Contract Effective Start Date,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2019.csv,Agency_Contracts_Fiscal_Year_2024.csv,Contractor Name D/B/A (Optional),presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2019.csv,Agency_Contracts_Fiscal_Year_2024.csv,Cost of Contract,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2019.csv,Agency_Contracts_Fiscal_Year_2024.csv,Explanation of Costs (Optional),presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2019.csv,Agency_Contracts_Fiscal_Year_2024.csv,Federal Amount,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2019.csv,Agency_Contracts_Fiscal_Year_2024.csv,Other Amount,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2019.csv,Agency_Contracts_Fiscal_Year_2024.csv,Period of Performance End Date,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2019.csv,Agency_Contracts_Fiscal_Year_2024.csv,Period of Performance Start Date,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2019.csv,Agency_Contracts_Fiscal_Year_2024.csv,Purpose of the Contract,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2019.csv,Agency_Contracts_Fiscal_Year_2024.csv,Purpose of the Contract Description (Optional),presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2019.csv,Agency_Contracts_Fiscal_Year_2024.csv,State Amount,presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2019.csv,Agency_Contracts_Fiscal_Year_2024.csv,Statewide Vendor Number (Optional),presente em ambos arquivos,
+Agency_Contracts_Fiscal_Year_2019.csv,Agency_Contracts_Fiscal_Year_2024.csv,Agency Name,somente no arquivo_1,Agency Number - Agency Name
+Agency_Contracts_Fiscal_Year_2019.csv,Agency_Contracts_Fiscal_Year_2024.csv,Contractor Name,somente no arquivo_1,"Contractor Name
+(Search for Vendor)"
+Agency_Contracts_Fiscal_Year_2019.csv,Agency_Contracts_Fiscal_Year_2024.csv,Procurement Type (Competitive or Non-Competitive),somente no arquivo_1,Procurement Type
+Agency_Contracts_Fiscal_Year_2019.csv,Agency_Contracts_Fiscal_Year_2024.csv,Small Business Status (Optional),somente no arquivo_1,Small Business
+Agency_Contracts_Fiscal_Year_2019.csv,Agency_Contracts_Fiscal_Year_2024.csv,Agency Contract Amendment No.,somente no arquivo_2,
+Agency_Contracts_Fiscal_Year_2019.csv,Agency_Contracts_Fiscal_Year_2024.csv,Agency Number - Agency Name,somente no arquivo_2,Agency Name
+Agency_Contracts_Fiscal_Year_2019.csv,Agency_Contracts_Fiscal_Year_2024.csv,Contract Modifications,somente no arquivo_2,
+Agency_Contracts_Fiscal_Year_2019.csv,Agency_Contracts_Fiscal_Year_2024.csv,"Contractor Name
+(Search for Vendor)",somente no arquivo_2,Contractor Name
+Agency_Contracts_Fiscal_Year_2019.csv,Agency_Contracts_Fiscal_Year_2024.csv,Minority/Woman Owned,somente no arquivo_2,
+Agency_Contracts_Fiscal_Year_2019.csv,Agency_Contracts_Fiscal_Year_2024.csv,Non-Financial Contract Yes/No (Optional),somente no arquivo_2,
+Agency_Contracts_Fiscal_Year_2019.csv,Agency_Contracts_Fiscal_Year_2024.csv,Procurement Type,somente no arquivo_2,Procurement Type (Competitive or Non-Competitive)
+Agency_Contracts_Fiscal_Year_2019.csv,Agency_Contracts_Fiscal_Year_2024.csv,Small Business,somente no arquivo_2,Small Business Status (Optional)
+Agency_Contracts_Fiscal_Year_2019.csv,Agency_Contracts_Fiscal_Year_2024.csv,Veteran,somente no arquivo_2,

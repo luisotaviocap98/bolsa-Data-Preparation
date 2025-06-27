@@ -1,0 +1,18 @@
+Coluna,Tipo
+Agency Name,String
+Agency Contract No.,String
+Contractor Name,String
+Contractor Name D/B/A (Optional),String
+Purpose of the Contract ,String
+Purpose of the Contract Description (Optional),String
+Contract Effective Start Date,String
+Contract Effective End Date,String
+Period of Performance Start Date,String
+Period of Performance End Date,String
+Federal Amount,Float
+State Amount,Float
+Other Amount,Float
+Cost of Contract,Float
+Explanation of Costs (Optional),String
+Procurement Type (Competitive or Non-Competitive),String
+Small Business Status (Optional),String

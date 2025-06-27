@@ -1,0 +1,51 @@
+Coluna,Tipo
+Municipality,String
+Initials,String
+Fisc_Year_End,Inteiro
+numbered,Inteiro
+Comptroller Town Code,Inteiro
+County_Identifier,String
+Invested In Capital Assets Net of Related Debt,Inteiro
+Unrestricted Net Assets,Inteiro
+Total Net Assets,Inteiro
+Change In Net Assets,Inteiro
+Inter_Gov_Rev,Inteiro
+Tax_Rev,Inteiro
+Total_Revenue,Inteiro
+Education,Inteiro
+Debt_Service,Inteiro
+Total_Expenditures,Inteiro
+TOTAL_Trans_to_Genl_Fund,Inteiro
+Other_Financing_Sources,Inteiro
+TOTAL_Trans_from_Genl_Fund,Inteiro
+Other_Financing_Uses,Inteiro
+Operating_Surplus_(Deficit)_Including_Transfers,Inteiro
+Prior_Yr_OP_Surplus_(Def)_including_sources_and_uses,Float
+Operating_Surplus_(Deficit)_Including_Sources_And_Uses,Inteiro
+Special / Extraordinary Items,Inteiro
+RSD_DEBT,Float
+TOWN_Bonded_Long_Term_Debt,Inteiro
+Total_Bonded_Long_Term_Debt_(RSD_+_Town),Float
+Reserv_Fund_Bal,Float
+Design_Fund_Bal,Float
+Total_Fund_Bal,Inteiro
+Restatement (Y or N),String
+Unreserved_Fund_Bal,Float
+Deficit - Individual Enterprise Funds (Y or N),String
+Deficit - Individual Internal Service Funds (Y or N),String
+Curr_Year_Adjusted_Taxes_Collectible,Inteiro
+Curr_Year_Taxes_Collected,Inteiro
+Curr_Year_Tax_Collection_Rate,Float
+Total_Adjusted_Taxes_Collectible,Inteiro
+Total_Taxes_Collected,Inteiro
+Overal_Total_Tax_Collection_Rate,Float
+Population,Float
+Moody's_Bond_Ratings,String
+area lmt,Float
+ACGLFY,Float
+EGL,Float
+TANF Recipients,Float
+empl,Float
+ACMR,Float
+enrollmt,Float
+RPA Identifier,String

@@ -1,0 +1,77 @@
+Coluna,Tipo
+Survey Year,Inteiro
+Program Category,String
+Region Served,String
+Age Group,String
+Sex,String
+Transgender,String
+Sexual Orientation,String
+Hispanic Ethnicity,String
+Race,String
+Living Situation,String
+Household Composition,String
+Preferred Language,String
+Religious Preference,String
+Veteran Status,String
+Employment Status,String
+Number Of Hours Worked Each Week,String
+Education Status,String
+Special Education Services,String
+Mental Illness,String
+Intellectual Disability,String
+Autism Spectrum,String
+Other Developmental Disability,String
+Alcohol Related Disorder,String
+Drug Substance Disorder,String
+Opioid Related Disorder,String
+Mobility Impairment Disorder,String
+Hearing Impairment,String
+Visual Impairment,String
+Speech Impairment,String
+Hyperlipidemia,String
+High Blood Pressure,String
+Diabetes,String
+Obesity,String
+Heart Attack,String
+Stroke,String
+Other Cardiac,String
+Pulmonary Asthma,String
+Alzheimer or Dementia,String
+Kidney Disease,String
+Liver Disease,String
+Endocrine Condition,String
+Neurological Condition,String
+Traumatic Brain Injury,String
+Joint Disease,String
+Cancer,String
+Other Chronic Med Condition,String
+No Chronic Med Condition,String
+Unknown Chronic Med Condition,String
+Cannabis Recreational Use,String
+Cannabis Medicinal Use,String
+Smokes,String
+Received Smoking Medication,String
+Received Smoking Counseling,String
+Serious Mental Illness,String
+Alcohol 12m Service,String
+Opioid 12m Service,String
+Drug/Substance 12m Service,String
+Principal Diagnosis Class,String
+Additional Diagnosis Class,String
+SSI Cash Assistance,String
+SSDI Cash Assistance,String
+Veterans Disability Benefits,String
+Veterans Cash Assistance,String
+Public Assistance Cash Program,String
+Other Cash Benefits,String
+Medicaid and Medicare Insurance,String
+No Insurance,String
+Unknown Insurance Coverage,String
+Medicaid Insurance,String
+Medicaid Managed Insurance,String
+Medicare Insurance,String
+Private Insurance,String
+Child Health Plus Insurance,String
+Other Insurance,String
+Criminal Justice Status,String
+Three Digit Residence Zip Code,Inteiro
