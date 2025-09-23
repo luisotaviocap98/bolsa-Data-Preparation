@@ -1,0 +1,13 @@
+arquivo_1,arquivo_2,coluna,comparacao,possiveis_candidatas
+microdados2004_arq1.csv,microdados2023_arq1.csv,CO_CATEGAD,presente em ambos arquivos,
+microdados2004_arq1.csv,microdados2023_arq1.csv,CO_CURSO,presente em ambos arquivos,
+microdados2004_arq1.csv,microdados2023_arq1.csv,CO_GRUPO,presente em ambos arquivos,
+microdados2004_arq1.csv,microdados2023_arq1.csv,CO_IES,presente em ambos arquivos,
+microdados2004_arq1.csv,microdados2023_arq1.csv,CO_MUNIC_CURSO,presente em ambos arquivos,
+microdados2004_arq1.csv,microdados2023_arq1.csv,CO_ORGACAD,presente em ambos arquivos,
+microdados2004_arq1.csv,microdados2023_arq1.csv,CO_REGIAO_CURSO,presente em ambos arquivos,
+microdados2004_arq1.csv,microdados2023_arq1.csv,CO_UF_CURSO,presente em ambos arquivos,
+microdados2004_arq1.csv,microdados2023_arq1.csv,NU_ANO,presente em ambos arquivos,
+microdados2004_arq1.csv,microdados2023_arq1.csv,PESO_AMOSTRA,somente no arquivo_1,
+microdados2004_arq1.csv,microdados2023_arq1.csv,TP_INSCRICAO,somente no arquivo_1,
+microdados2004_arq1.csv,microdados2023_arq1.csv,CO_MODALIDADE,somente no arquivo_2,

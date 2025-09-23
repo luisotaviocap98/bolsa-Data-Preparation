@@ -1,0 +1,914 @@
+arquivo_1,arquivo_2,coluna,comparacao,possiveis_candidatas
+st111a.xls,st861b.xls,CITY,presente em ambos arquivos,
+st111a.xls,st861b.xls,PHONE,presente em ambos arquivos,
+st111a.xls,st861b.xls,SEANAME,presente em ambos arquivos,
+st111a.xls,st861b.xls,STABR,presente em ambos arquivos,
+st111a.xls,st861b.xls,STREET,presente em ambos arquivos,
+st111a.xls,st861b.xls,SURVYEAR,presente em ambos arquivos,
+st111a.xls,st861b.xls,ZIP,presente em ambos arquivos,
+st111a.xls,st861b.xls,AIDES,somente no arquivo_1,Instructional Aides
+st111a.xls,st861b.xls,AM01F,somente no arquivo_1,
+st111a.xls,st861b.xls,AM01M,somente no arquivo_1,
+st111a.xls,st861b.xls,AM02F,somente no arquivo_1,
+st111a.xls,st861b.xls,AM02M,somente no arquivo_1,
+st111a.xls,st861b.xls,AM03F,somente no arquivo_1,
+st111a.xls,st861b.xls,AM03M,somente no arquivo_1,
+st111a.xls,st861b.xls,AM04F,somente no arquivo_1,
+st111a.xls,st861b.xls,AM04M,somente no arquivo_1,
+st111a.xls,st861b.xls,AM05F,somente no arquivo_1,
+st111a.xls,st861b.xls,AM05M,somente no arquivo_1,
+st111a.xls,st861b.xls,AM06F,somente no arquivo_1,
+st111a.xls,st861b.xls,AM06M,somente no arquivo_1,
+st111a.xls,st861b.xls,AM07F,somente no arquivo_1,
+st111a.xls,st861b.xls,AM07M,somente no arquivo_1,
+st111a.xls,st861b.xls,AM08F,somente no arquivo_1,
+st111a.xls,st861b.xls,AM08M,somente no arquivo_1,
+st111a.xls,st861b.xls,AM09F,somente no arquivo_1,
+st111a.xls,st861b.xls,AM09M,somente no arquivo_1,
+st111a.xls,st861b.xls,AM10F,somente no arquivo_1,
+st111a.xls,st861b.xls,AM10M,somente no arquivo_1,
+st111a.xls,st861b.xls,AM11F,somente no arquivo_1,
+st111a.xls,st861b.xls,AM11M,somente no arquivo_1,
+st111a.xls,st861b.xls,AM12F,somente no arquivo_1,
+st111a.xls,st861b.xls,AM12M,somente no arquivo_1,
+st111a.xls,st861b.xls,AMKGF,somente no arquivo_1,
+st111a.xls,st861b.xls,AMKGM,somente no arquivo_1,
+st111a.xls,st861b.xls,AMPKF,somente no arquivo_1,
+st111a.xls,st861b.xls,AMPKM,somente no arquivo_1,
+st111a.xls,st861b.xls,AMUGF,somente no arquivo_1,
+st111a.xls,st861b.xls,AMUGM,somente no arquivo_1,
+st111a.xls,st861b.xls,AS01F,somente no arquivo_1,
+st111a.xls,st861b.xls,AS01M,somente no arquivo_1,
+st111a.xls,st861b.xls,AS02F,somente no arquivo_1,
+st111a.xls,st861b.xls,AS02M,somente no arquivo_1,
+st111a.xls,st861b.xls,AS03F,somente no arquivo_1,
+st111a.xls,st861b.xls,AS03M,somente no arquivo_1,
+st111a.xls,st861b.xls,AS04F,somente no arquivo_1,
+st111a.xls,st861b.xls,AS04M,somente no arquivo_1,
+st111a.xls,st861b.xls,AS05F,somente no arquivo_1,
+st111a.xls,st861b.xls,AS05M,somente no arquivo_1,
+st111a.xls,st861b.xls,AS06F,somente no arquivo_1,
+st111a.xls,st861b.xls,AS06M,somente no arquivo_1,
+st111a.xls,st861b.xls,AS07F,somente no arquivo_1,
+st111a.xls,st861b.xls,AS07M,somente no arquivo_1,
+st111a.xls,st861b.xls,AS08F,somente no arquivo_1,
+st111a.xls,st861b.xls,AS08M,somente no arquivo_1,
+st111a.xls,st861b.xls,AS09F,somente no arquivo_1,
+st111a.xls,st861b.xls,AS09M,somente no arquivo_1,
+st111a.xls,st861b.xls,AS10F,somente no arquivo_1,
+st111a.xls,st861b.xls,AS10M,somente no arquivo_1,
+st111a.xls,st861b.xls,AS11F,somente no arquivo_1,
+st111a.xls,st861b.xls,AS11M,somente no arquivo_1,
+st111a.xls,st861b.xls,AS12F,somente no arquivo_1,
+st111a.xls,st861b.xls,AS12M,somente no arquivo_1,
+st111a.xls,st861b.xls,ASKGF,somente no arquivo_1,
+st111a.xls,st861b.xls,ASKGM,somente no arquivo_1,
+st111a.xls,st861b.xls,ASPKF,somente no arquivo_1,
+st111a.xls,st861b.xls,ASPKM,somente no arquivo_1,
+st111a.xls,st861b.xls,ASUGF,somente no arquivo_1,
+st111a.xls,st861b.xls,ASUGM,somente no arquivo_1,
+st111a.xls,st861b.xls,BL01F,somente no arquivo_1,
+st111a.xls,st861b.xls,BL01M,somente no arquivo_1,
+st111a.xls,st861b.xls,BL02F,somente no arquivo_1,
+st111a.xls,st861b.xls,BL02M,somente no arquivo_1,
+st111a.xls,st861b.xls,BL03F,somente no arquivo_1,
+st111a.xls,st861b.xls,BL03M,somente no arquivo_1,
+st111a.xls,st861b.xls,BL04F,somente no arquivo_1,
+st111a.xls,st861b.xls,BL04M,somente no arquivo_1,
+st111a.xls,st861b.xls,BL05F,somente no arquivo_1,
+st111a.xls,st861b.xls,BL05M,somente no arquivo_1,
+st111a.xls,st861b.xls,BL06F,somente no arquivo_1,
+st111a.xls,st861b.xls,BL06M,somente no arquivo_1,
+st111a.xls,st861b.xls,BL07F,somente no arquivo_1,
+st111a.xls,st861b.xls,BL07M,somente no arquivo_1,
+st111a.xls,st861b.xls,BL08F,somente no arquivo_1,
+st111a.xls,st861b.xls,BL08M,somente no arquivo_1,
+st111a.xls,st861b.xls,BL09F,somente no arquivo_1,
+st111a.xls,st861b.xls,BL09M,somente no arquivo_1,
+st111a.xls,st861b.xls,BL10F,somente no arquivo_1,
+st111a.xls,st861b.xls,BL10M,somente no arquivo_1,
+st111a.xls,st861b.xls,BL11F,somente no arquivo_1,
+st111a.xls,st861b.xls,BL11M,somente no arquivo_1,
+st111a.xls,st861b.xls,BL12F,somente no arquivo_1,
+st111a.xls,st861b.xls,BL12M,somente no arquivo_1,
+st111a.xls,st861b.xls,BLKGF,somente no arquivo_1,
+st111a.xls,st861b.xls,BLKGM,somente no arquivo_1,
+st111a.xls,st861b.xls,BLPKF,somente no arquivo_1,
+st111a.xls,st861b.xls,BLPKM,somente no arquivo_1,
+st111a.xls,st861b.xls,BLUGF,somente no arquivo_1,
+st111a.xls,st861b.xls,BLUGM,somente no arquivo_1,
+st111a.xls,st861b.xls,CORSUP,somente no arquivo_1,
+st111a.xls,st861b.xls,ELMGUI,somente no arquivo_1,
+st111a.xls,st861b.xls,ELMTCH,somente no arquivo_1,
+st111a.xls,st861b.xls,FIPST,somente no arquivo_1,FIPS
+st111a.xls,st861b.xls,G01,somente no arquivo_1,
+st111a.xls,st861b.xls,G02,somente no arquivo_1,
+st111a.xls,st861b.xls,G03,somente no arquivo_1,
+st111a.xls,st861b.xls,G04,somente no arquivo_1,
+st111a.xls,st861b.xls,G05,somente no arquivo_1,
+st111a.xls,st861b.xls,G06,somente no arquivo_1,
+st111a.xls,st861b.xls,G07,somente no arquivo_1,
+st111a.xls,st861b.xls,G08,somente no arquivo_1,
+st111a.xls,st861b.xls,G09,somente no arquivo_1,
+st111a.xls,st861b.xls,G10,somente no arquivo_1,
+st111a.xls,st861b.xls,G11,somente no arquivo_1,
+st111a.xls,st861b.xls,G12,somente no arquivo_1,
+st111a.xls,st861b.xls,HI01F,somente no arquivo_1,
+st111a.xls,st861b.xls,HI01M,somente no arquivo_1,
+st111a.xls,st861b.xls,HI02F,somente no arquivo_1,
+st111a.xls,st861b.xls,HI02M,somente no arquivo_1,
+st111a.xls,st861b.xls,HI03F,somente no arquivo_1,
+st111a.xls,st861b.xls,HI03M,somente no arquivo_1,
+st111a.xls,st861b.xls,HI04F,somente no arquivo_1,
+st111a.xls,st861b.xls,HI04M,somente no arquivo_1,
+st111a.xls,st861b.xls,HI05F,somente no arquivo_1,
+st111a.xls,st861b.xls,HI05M,somente no arquivo_1,
+st111a.xls,st861b.xls,HI06F,somente no arquivo_1,
+st111a.xls,st861b.xls,HI06M,somente no arquivo_1,
+st111a.xls,st861b.xls,HI07F,somente no arquivo_1,
+st111a.xls,st861b.xls,HI07M,somente no arquivo_1,
+st111a.xls,st861b.xls,HI08F,somente no arquivo_1,
+st111a.xls,st861b.xls,HI08M,somente no arquivo_1,
+st111a.xls,st861b.xls,HI09F,somente no arquivo_1,
+st111a.xls,st861b.xls,HI09M,somente no arquivo_1,
+st111a.xls,st861b.xls,HI10F,somente no arquivo_1,
+st111a.xls,st861b.xls,HI10M,somente no arquivo_1,
+st111a.xls,st861b.xls,HI11F,somente no arquivo_1,
+st111a.xls,st861b.xls,HI11M,somente no arquivo_1,
+st111a.xls,st861b.xls,HI12F,somente no arquivo_1,
+st111a.xls,st861b.xls,HI12M,somente no arquivo_1,
+st111a.xls,st861b.xls,HIKGF,somente no arquivo_1,
+st111a.xls,st861b.xls,HIKGM,somente no arquivo_1,
+st111a.xls,st861b.xls,HIPKF,somente no arquivo_1,
+st111a.xls,st861b.xls,HIPKM,somente no arquivo_1,
+st111a.xls,st861b.xls,HIUGF,somente no arquivo_1,
+st111a.xls,st861b.xls,HIUGM,somente no arquivo_1,
+st111a.xls,st861b.xls,HP01F,somente no arquivo_1,
+st111a.xls,st861b.xls,HP01M,somente no arquivo_1,
+st111a.xls,st861b.xls,HP02F,somente no arquivo_1,
+st111a.xls,st861b.xls,HP02M,somente no arquivo_1,
+st111a.xls,st861b.xls,HP03F,somente no arquivo_1,
+st111a.xls,st861b.xls,HP03M,somente no arquivo_1,
+st111a.xls,st861b.xls,HP04F,somente no arquivo_1,
+st111a.xls,st861b.xls,HP04M,somente no arquivo_1,
+st111a.xls,st861b.xls,HP05F,somente no arquivo_1,
+st111a.xls,st861b.xls,HP05M,somente no arquivo_1,
+st111a.xls,st861b.xls,HP06F,somente no arquivo_1,
+st111a.xls,st861b.xls,HP06M,somente no arquivo_1,
+st111a.xls,st861b.xls,HP07F,somente no arquivo_1,
+st111a.xls,st861b.xls,HP07M,somente no arquivo_1,
+st111a.xls,st861b.xls,HP08F,somente no arquivo_1,
+st111a.xls,st861b.xls,HP08M,somente no arquivo_1,
+st111a.xls,st861b.xls,HP09F,somente no arquivo_1,
+st111a.xls,st861b.xls,HP09M,somente no arquivo_1,
+st111a.xls,st861b.xls,HP10F,somente no arquivo_1,
+st111a.xls,st861b.xls,HP10M,somente no arquivo_1,
+st111a.xls,st861b.xls,HP11F,somente no arquivo_1,
+st111a.xls,st861b.xls,HP11M,somente no arquivo_1,
+st111a.xls,st861b.xls,HP12F,somente no arquivo_1,
+st111a.xls,st861b.xls,HP12M,somente no arquivo_1,
+st111a.xls,st861b.xls,HPKGF,somente no arquivo_1,
+st111a.xls,st861b.xls,HPKGM,somente no arquivo_1,
+st111a.xls,st861b.xls,HPPKF,somente no arquivo_1,
+st111a.xls,st861b.xls,HPPKM,somente no arquivo_1,
+st111a.xls,st861b.xls,HPUGF,somente no arquivo_1,
+st111a.xls,st861b.xls,HPUGM,somente no arquivo_1,
+st111a.xls,st861b.xls,KG,somente no arquivo_1,
+st111a.xls,st861b.xls,KGTCH,somente no arquivo_1,
+st111a.xls,st861b.xls,LEAADM,somente no arquivo_1,LEA Administrators/LEA Administrative Support Staff
+st111a.xls,st861b.xls,LEASUP,somente no arquivo_1,
+st111a.xls,st861b.xls,LIBSPE,somente no arquivo_1,
+st111a.xls,st861b.xls,LIBSUP,somente no arquivo_1,
+st111a.xls,st861b.xls,MEMBER,somente no arquivo_1,
+st111a.xls,st861b.xls,OTHGUI,somente no arquivo_1,
+st111a.xls,st861b.xls,OTHSUP,somente no arquivo_1,
+st111a.xls,st861b.xls,PK,somente no arquivo_1,
+st111a.xls,st861b.xls,PKTCH,somente no arquivo_1,
+st111a.xls,st861b.xls,SCHADM,somente no arquivo_1,
+st111a.xls,st861b.xls,SCHSUP,somente no arquivo_1,
+st111a.xls,st861b.xls,SECGUI,somente no arquivo_1,
+st111a.xls,st861b.xls,SECTCH,somente no arquivo_1,
+st111a.xls,st861b.xls,STNAME,somente no arquivo_1,STATE
+st111a.xls,st861b.xls,STUSUP,somente no arquivo_1,
+st111a.xls,st861b.xls,TOTGUI,somente no arquivo_1,
+st111a.xls,st861b.xls,TOTTCH,somente no arquivo_1,
+st111a.xls,st861b.xls,TR01F,somente no arquivo_1,
+st111a.xls,st861b.xls,TR01M,somente no arquivo_1,
+st111a.xls,st861b.xls,TR02F,somente no arquivo_1,
+st111a.xls,st861b.xls,TR02M,somente no arquivo_1,
+st111a.xls,st861b.xls,TR03F,somente no arquivo_1,
+st111a.xls,st861b.xls,TR03M,somente no arquivo_1,
+st111a.xls,st861b.xls,TR04F,somente no arquivo_1,
+st111a.xls,st861b.xls,TR04M,somente no arquivo_1,
+st111a.xls,st861b.xls,TR05F,somente no arquivo_1,
+st111a.xls,st861b.xls,TR05M,somente no arquivo_1,
+st111a.xls,st861b.xls,TR06F,somente no arquivo_1,
+st111a.xls,st861b.xls,TR06M,somente no arquivo_1,
+st111a.xls,st861b.xls,TR07F,somente no arquivo_1,
+st111a.xls,st861b.xls,TR07M,somente no arquivo_1,
+st111a.xls,st861b.xls,TR08F,somente no arquivo_1,
+st111a.xls,st861b.xls,TR08M,somente no arquivo_1,
+st111a.xls,st861b.xls,TR09F,somente no arquivo_1,
+st111a.xls,st861b.xls,TR09M,somente no arquivo_1,
+st111a.xls,st861b.xls,TR10F,somente no arquivo_1,
+st111a.xls,st861b.xls,TR10M,somente no arquivo_1,
+st111a.xls,st861b.xls,TR11F,somente no arquivo_1,
+st111a.xls,st861b.xls,TR11M,somente no arquivo_1,
+st111a.xls,st861b.xls,TR12F,somente no arquivo_1,
+st111a.xls,st861b.xls,TR12M,somente no arquivo_1,
+st111a.xls,st861b.xls,TRKGF,somente no arquivo_1,
+st111a.xls,st861b.xls,TRKGM,somente no arquivo_1,
+st111a.xls,st861b.xls,TRPKF,somente no arquivo_1,
+st111a.xls,st861b.xls,TRPKM,somente no arquivo_1,
+st111a.xls,st861b.xls,TRUGF,somente no arquivo_1,
+st111a.xls,st861b.xls,TRUGM,somente no arquivo_1,
+st111a.xls,st861b.xls,UG,somente no arquivo_1,
+st111a.xls,st861b.xls,UGTCH,somente no arquivo_1,
+st111a.xls,st861b.xls,WH01F,somente no arquivo_1,
+st111a.xls,st861b.xls,WH01M,somente no arquivo_1,
+st111a.xls,st861b.xls,WH02F,somente no arquivo_1,
+st111a.xls,st861b.xls,WH02M,somente no arquivo_1,
+st111a.xls,st861b.xls,WH03F,somente no arquivo_1,
+st111a.xls,st861b.xls,WH03M,somente no arquivo_1,
+st111a.xls,st861b.xls,WH04F,somente no arquivo_1,
+st111a.xls,st861b.xls,WH04M,somente no arquivo_1,
+st111a.xls,st861b.xls,WH05F,somente no arquivo_1,
+st111a.xls,st861b.xls,WH05M,somente no arquivo_1,
+st111a.xls,st861b.xls,WH06F,somente no arquivo_1,
+st111a.xls,st861b.xls,WH06M,somente no arquivo_1,
+st111a.xls,st861b.xls,WH07F,somente no arquivo_1,
+st111a.xls,st861b.xls,WH07M,somente no arquivo_1,
+st111a.xls,st861b.xls,WH08F,somente no arquivo_1,
+st111a.xls,st861b.xls,WH08M,somente no arquivo_1,
+st111a.xls,st861b.xls,WH09F,somente no arquivo_1,
+st111a.xls,st861b.xls,WH09M,somente no arquivo_1,
+st111a.xls,st861b.xls,WH10F,somente no arquivo_1,
+st111a.xls,st861b.xls,WH10M,somente no arquivo_1,
+st111a.xls,st861b.xls,WH11F,somente no arquivo_1,
+st111a.xls,st861b.xls,WH11M,somente no arquivo_1,
+st111a.xls,st861b.xls,WH12F,somente no arquivo_1,
+st111a.xls,st861b.xls,WH12M,somente no arquivo_1,
+st111a.xls,st861b.xls,WHKGF,somente no arquivo_1,
+st111a.xls,st861b.xls,WHKGM,somente no arquivo_1,
+st111a.xls,st861b.xls,WHPKF,somente no arquivo_1,
+st111a.xls,st861b.xls,WHPKM,somente no arquivo_1,
+st111a.xls,st861b.xls,WHUGF,somente no arquivo_1,
+st111a.xls,st861b.xls,WHUGM,somente no arquivo_1,
+st111a.xls,st861b.xls,ZIP4,somente no arquivo_1,FIPS
+st111a.xls,st861b.xls,All other support services staff,somente no arquivo_2,
+st111a.xls,st861b.xls,Elementary Teachers,somente no arquivo_2,
+st111a.xls,st861b.xls,Elem Guidance Counselors,somente no arquivo_2,
+st111a.xls,st861b.xls,FIPS,somente no arquivo_2,FIPST/ZIP4
+st111a.xls,st861b.xls,Grade 10 Students,somente no arquivo_2,
+st111a.xls,st861b.xls,Grade 11 Students,somente no arquivo_2,
+st111a.xls,st861b.xls,Grade 12 Students,somente no arquivo_2,
+st111a.xls,st861b.xls,Grade 1 Students,somente no arquivo_2,
+st111a.xls,st861b.xls,Grade 2 Students,somente no arquivo_2,
+st111a.xls,st861b.xls,Grade 3 Students,somente no arquivo_2,
+st111a.xls,st861b.xls,Grade 4 Students,somente no arquivo_2,
+st111a.xls,st861b.xls,Grade 5 Students,somente no arquivo_2,
+st111a.xls,st861b.xls,Grade 6 Students,somente no arquivo_2,
+st111a.xls,st861b.xls,Grade 7 Students,somente no arquivo_2,
+st111a.xls,st861b.xls,Grade 8 Students,somente no arquivo_2,
+st111a.xls,st861b.xls,Grade 9 Students,somente no arquivo_2,
+st111a.xls,st861b.xls,H.S. Equivalency,somente no arquivo_2,
+st111a.xls,st861b.xls,Instructional Aides,somente no arquivo_2,AIDES
+st111a.xls,st861b.xls,Kindergarten Students,somente no arquivo_2,
+st111a.xls,st861b.xls,Kindergarten Teachers,somente no arquivo_2,
+st111a.xls,st861b.xls,LEA Administrative Support Staff,somente no arquivo_2,LEAADM
+st111a.xls,st861b.xls,LEA Administrators,somente no arquivo_2,LEAADM
+st111a.xls,st861b.xls,Librarians,somente no arquivo_2,
+st111a.xls,st861b.xls,Library Support Staff,somente no arquivo_2,
+st111a.xls,st861b.xls,Other Diploma Recipients,somente no arquivo_2,
+st111a.xls,st861b.xls,Other H.S. Completers,somente no arquivo_2,
+st111a.xls,st861b.xls,Prekindergarten Teachers,somente no arquivo_2,
+st111a.xls,st861b.xls,PreK Students,somente no arquivo_2,
+st111a.xls,st861b.xls,Regular Diploma HS Grad,somente no arquivo_2,
+st111a.xls,st861b.xls,School Administrative Support Staff,somente no arquivo_2,
+st111a.xls,st861b.xls,School Administrators,somente no arquivo_2,
+st111a.xls,st861b.xls,Secondary Guidance Counselor,somente no arquivo_2,
+st111a.xls,st861b.xls,Secondary Teachers,somente no arquivo_2,
+st111a.xls,st861b.xls,STATE,somente no arquivo_2,STNAME
+st111a.xls,st861b.xls,Total Guidance Counselors,somente no arquivo_2,
+st111a.xls,st861b.xls,Total Students,somente no arquivo_2,
+st111a.xls,st861b.xls,Total Teachers,somente no arquivo_2,
+st111a.xls,st861b.xls,Ungraded Students,somente no arquivo_2,
+st111a.xls,st861b.xls,Ungraded Teachers,somente no arquivo_2,
+st111a.xls,st991b.xls,AIDES,presente em ambos arquivos,
+st111a.xls,st991b.xls,CITY,presente em ambos arquivos,
+st111a.xls,st991b.xls,CORSUP,presente em ambos arquivos,
+st111a.xls,st991b.xls,ELMGUI,presente em ambos arquivos,
+st111a.xls,st991b.xls,ELMTCH,presente em ambos arquivos,
+st111a.xls,st991b.xls,FIPST,presente em ambos arquivos,
+st111a.xls,st991b.xls,G01,presente em ambos arquivos,
+st111a.xls,st991b.xls,G02,presente em ambos arquivos,
+st111a.xls,st991b.xls,G03,presente em ambos arquivos,
+st111a.xls,st991b.xls,G04,presente em ambos arquivos,
+st111a.xls,st991b.xls,G05,presente em ambos arquivos,
+st111a.xls,st991b.xls,G06,presente em ambos arquivos,
+st111a.xls,st991b.xls,G07,presente em ambos arquivos,
+st111a.xls,st991b.xls,G08,presente em ambos arquivos,
+st111a.xls,st991b.xls,G09,presente em ambos arquivos,
+st111a.xls,st991b.xls,G10,presente em ambos arquivos,
+st111a.xls,st991b.xls,G11,presente em ambos arquivos,
+st111a.xls,st991b.xls,G12,presente em ambos arquivos,
+st111a.xls,st991b.xls,KG,presente em ambos arquivos,
+st111a.xls,st991b.xls,KGTCH,presente em ambos arquivos,
+st111a.xls,st991b.xls,LEAADM,presente em ambos arquivos,
+st111a.xls,st991b.xls,LEASUP,presente em ambos arquivos,
+st111a.xls,st991b.xls,LIBSPE,presente em ambos arquivos,
+st111a.xls,st991b.xls,LIBSUP,presente em ambos arquivos,
+st111a.xls,st991b.xls,MEMBER,presente em ambos arquivos,
+st111a.xls,st991b.xls,OTHSUP,presente em ambos arquivos,
+st111a.xls,st991b.xls,PHONE,presente em ambos arquivos,
+st111a.xls,st991b.xls,PK,presente em ambos arquivos,
+st111a.xls,st991b.xls,PKTCH,presente em ambos arquivos,
+st111a.xls,st991b.xls,SCHADM,presente em ambos arquivos,
+st111a.xls,st991b.xls,SCHSUP,presente em ambos arquivos,
+st111a.xls,st991b.xls,SEANAME,presente em ambos arquivos,
+st111a.xls,st991b.xls,SECGUI,presente em ambos arquivos,
+st111a.xls,st991b.xls,SECTCH,presente em ambos arquivos,
+st111a.xls,st991b.xls,STABR,presente em ambos arquivos,
+st111a.xls,st991b.xls,STNAME,presente em ambos arquivos,
+st111a.xls,st991b.xls,STREET,presente em ambos arquivos,
+st111a.xls,st991b.xls,STUSUP,presente em ambos arquivos,
+st111a.xls,st991b.xls,SURVYEAR,presente em ambos arquivos,
+st111a.xls,st991b.xls,TOTGUI,presente em ambos arquivos,
+st111a.xls,st991b.xls,TOTTCH,presente em ambos arquivos,
+st111a.xls,st991b.xls,UG,presente em ambos arquivos,
+st111a.xls,st991b.xls,UGTCH,presente em ambos arquivos,
+st111a.xls,st991b.xls,ZIP,presente em ambos arquivos,
+st111a.xls,st991b.xls,ZIP4,presente em ambos arquivos,
+st111a.xls,st991b.xls,AM01F,somente no arquivo_1,AM03/AM/AM08/AM12/AS01/AM11/AM02/AM06/AM04/AM09/AM10/AM05/AM01/AM07
+st111a.xls,st991b.xls,AM01M,somente no arquivo_1,AM03/AM/AM08/AM12/AS01/AM11/AM02/AM06/AM04/AM09/AM10/AM05/AM01/AM07
+st111a.xls,st991b.xls,AM02F,somente no arquivo_1,AM03/AM/AM08/AM12/AM02/AM06/AS02/AM04/AM09/AM05/AM01/AM07
+st111a.xls,st991b.xls,AM02M,somente no arquivo_1,AM03/AM/AM08/AM12/AM02/AM06/AS02/AM04/AM09/AM05/AM01/AM07
+st111a.xls,st991b.xls,AM03F,somente no arquivo_1,AM03/AM/AM08/AM02/AM06/AS03/AM04/AM09/AM05/AM01/AM07
+st111a.xls,st991b.xls,AM03M,somente no arquivo_1,AM03/AM/AM08/AM02/AM06/AS03/AM04/AM09/AM05/AM01/AM07
+st111a.xls,st991b.xls,AM04F,somente no arquivo_1,AM03/AM/AM08/AS04/AM02/AM06/AM04/AM09/AM05/AM01/AM07
+st111a.xls,st991b.xls,AM04M,somente no arquivo_1,AM03/AM/AM08/AS04/AM02/AM06/AM04/AM09/AM05/AM01/AM07
+st111a.xls,st991b.xls,AM05F,somente no arquivo_1,AM03/AM/AM08/AS05/AM02/AM06/AM04/AM09/AM05/AM01/AM07
+st111a.xls,st991b.xls,AM05M,somente no arquivo_1,AM03/AM/AM08/AS05/AM02/AM06/AM04/AM09/AM05/AM01/AM07
+st111a.xls,st991b.xls,AM06F,somente no arquivo_1,AS06/AM03/AM/AM08/AM02/AM06/AM04/AM09/AM05/AM01/AM07
+st111a.xls,st991b.xls,AM06M,somente no arquivo_1,AS06/AM03/AM/AM08/AM02/AM06/AM04/AM09/AM05/AM01/AM07
+st111a.xls,st991b.xls,AM07F,somente no arquivo_1,AM03/AM/AM08/AM02/AM06/AS07/AM04/AM09/AM05/AM01/AM07
+st111a.xls,st991b.xls,AM07M,somente no arquivo_1,AM03/AM/AM08/AM02/AM06/AS07/AM04/AM09/AM05/AM01/AM07
+st111a.xls,st991b.xls,AM08F,somente no arquivo_1,AM03/AS08/AM/AM08/AM02/AM06/AM04/AM09/AM05/AM01/AM07
+st111a.xls,st991b.xls,AM08M,somente no arquivo_1,AM03/AS08/AM/AM08/AM02/AM06/AM04/AM09/AM05/AM01/AM07
+st111a.xls,st991b.xls,AM09F,somente no arquivo_1,AM03/AM/AS09/AM08/AM02/AM06/AM04/AM09/AM05/AM01/AM07
+st111a.xls,st991b.xls,AM09M,somente no arquivo_1,AM03/AM/AS09/AM08/AM02/AM06/AM04/AM09/AM05/AM01/AM07
+st111a.xls,st991b.xls,AM10F,somente no arquivo_1,AM03/AM/AM08/AM12/AM11/AM02/AM06/AS10/AM04/AM09/AM10/AM05/AM01/AM07
+st111a.xls,st991b.xls,AM10M,somente no arquivo_1,AM03/AM/AM08/AM12/AM11/AM02/AM06/AS10/AM04/AM09/AM10/AM05/AM01/AM07
+st111a.xls,st991b.xls,AM11F,somente no arquivo_1,AM/AM12/AS11/AM11/AM10/AM01
+st111a.xls,st991b.xls,AM11M,somente no arquivo_1,AM/AM12/AS11/AM11/AM10/AM01
+st111a.xls,st991b.xls,AM12F,somente no arquivo_1,AM/AM12/AM11/AS12/AM02/AM10
+st111a.xls,st991b.xls,AM12M,somente no arquivo_1,AM/AM12/AM11/AS12/AM02/AM10
+st111a.xls,st991b.xls,AMKGF,somente no arquivo_1,AM/ASKG/AMUG/AMKG
+st111a.xls,st991b.xls,AMKGM,somente no arquivo_1,AM/ASKG/AMUG/AMKG
+st111a.xls,st991b.xls,AMPKF,somente no arquivo_1,AM/ASPK/AMKG/AMPK
+st111a.xls,st991b.xls,AMPKM,somente no arquivo_1,AM/ASPK/AMKG/AMPK
+st111a.xls,st991b.xls,AMUGF,somente no arquivo_1,AM/AMEQUIV/ASUG/AMUG/AMKG
+st111a.xls,st991b.xls,AMUGM,somente no arquivo_1,AM/ASUG/AMUG/AMKG
+st111a.xls,st991b.xls,AS01F,somente no arquivo_1,AS06/AS08/AS/AS09/AS05/AS01/AS11/AS12/AS04/AS10/AS03/AS02/AS07/AM01
+st111a.xls,st991b.xls,AS01M,somente no arquivo_1,AS06/AS08/AS/AS09/AS05/AS01/AS11/AS12/AS04/AS10/AS03/AS02/AS07/AM01
+st111a.xls,st991b.xls,AS02F,somente no arquivo_1,AS06/AS08/AS/AS09/AS05/AS01/AS12/AS04/AM02/AS03/AS02/AS07
+st111a.xls,st991b.xls,AS02M,somente no arquivo_1,AS06/AS08/AS/AS09/AS05/AS01/AS12/AS04/AM02/AS03/AS02/AS07
+st111a.xls,st991b.xls,AS03F,somente no arquivo_1,AS06/AM03/AS08/AS/AS09/AS05/AS01/AS04/AS03/AS02/AS07
+st111a.xls,st991b.xls,AS03M,somente no arquivo_1,AS06/AM03/AS08/AS/AS09/AS05/AS01/AS04/AS03/AS02/AS07
+st111a.xls,st991b.xls,AS04F,somente no arquivo_1,AS06/AS08/AS/AS09/AS05/AS01/AS04/AS03/AS02/AS07/AM04
+st111a.xls,st991b.xls,AS04M,somente no arquivo_1,AS06/AS08/AS/AS09/AS05/AS01/AS04/AS03/AS02/AS07/AM04
+st111a.xls,st991b.xls,AS05F,somente no arquivo_1,AS06/AS08/AS/AS09/AS05/AS01/AS04/AS03/AS02/AS07/AM05
+st111a.xls,st991b.xls,AS05M,somente no arquivo_1,AS06/AS08/AS/AS09/AS05/AS01/AS04/AS03/AS02/AS07/AM05
+st111a.xls,st991b.xls,AS06F,somente no arquivo_1,AS06/AS08/AS/AS09/AS05/AS01/AS04/AM06/AS03/AS02/AS07
+st111a.xls,st991b.xls,AS06M,somente no arquivo_1,AS06/AS08/AS/AS09/AS05/AS01/AS04/AM06/AS03/AS02/AS07
+st111a.xls,st991b.xls,AS07F,somente no arquivo_1,AS06/AS08/AS/AS09/AS05/AS01/AS04/AS03/AS02/AS07/AM07
+st111a.xls,st991b.xls,AS07M,somente no arquivo_1,AS06/AS08/AS/AS09/AS05/AS01/AS04/AS03/AS02/AS07/AM07
+st111a.xls,st991b.xls,AS08F,somente no arquivo_1,AS06/AS08/AS/AS09/AM08/AS05/AS01/AS04/AS03/AS02/AS07
+st111a.xls,st991b.xls,AS08M,somente no arquivo_1,AS06/AS08/AS/AS09/AM08/AS05/AS01/AS04/AS03/AS02/AS07
+st111a.xls,st991b.xls,AS09F,somente no arquivo_1,AS06/AS08/AS/AS09/AS05/AS01/AS04/AS03/AS02/AS07/AM09
+st111a.xls,st991b.xls,AS09M,somente no arquivo_1,AS06/AS08/AS/AS09/AS05/AS01/AS04/AS03/AS02/AS07/AM09
+st111a.xls,st991b.xls,AS10F,somente no arquivo_1,AS06/AS08/AS/AS09/AS05/AS01/AS11/AS12/AS04/AS10/AS03/AS02/AS07/AM10
+st111a.xls,st991b.xls,AS10M,somente no arquivo_1,AS06/AS08/AS/AS09/AS05/AS01/AS11/AS12/AS04/AS10/AS03/AS02/AS07/AM10
+st111a.xls,st991b.xls,AS11F,somente no arquivo_1,AS/AS01/AS11/AM11/AS12/AS10
+st111a.xls,st991b.xls,AS11M,somente no arquivo_1,AS/AS01/AS11/AM11/AS12/AS10
+st111a.xls,st991b.xls,AS12F,somente no arquivo_1,AS/AM12/AS11/AS12/AS10/AS02
+st111a.xls,st991b.xls,AS12M,somente no arquivo_1,AS/AM12/AS11/AS12/AS10/AS02
+st111a.xls,st991b.xls,ASKGF,somente no arquivo_1,AS/ASUG/ASKG/AMKG
+st111a.xls,st991b.xls,ASKGM,somente no arquivo_1,AS/ASUG/ASKG/AMKG
+st111a.xls,st991b.xls,ASPKF,somente no arquivo_1,AS/ASPK/ASKG/AMPK
+st111a.xls,st991b.xls,ASPKM,somente no arquivo_1,AS/ASPK/ASKG/AMPK
+st111a.xls,st991b.xls,ASUGF,somente no arquivo_1,AS/ASUG/ASKG/ASEQUIV/AMUG
+st111a.xls,st991b.xls,ASUGM,somente no arquivo_1,AS/ASUG/ASKG/AMUG
+st111a.xls,st991b.xls,BL01F,somente no arquivo_1,BL08/BL06/BL12/BL09/BL02/BL01/BL03/BL07/BL10/BL05/BL04/BL/BL11
+st111a.xls,st991b.xls,BL01M,somente no arquivo_1,BL08/BL06/BL12/BL09/BL02/BL01/BL03/BL07/BL10/BL05/BL04/BL/BL11
+st111a.xls,st991b.xls,BL02F,somente no arquivo_1,BL08/BL06/BL12/BL09/BL02/BL01/BL03/BL07/BL05/BL04/BL
+st111a.xls,st991b.xls,BL02M,somente no arquivo_1,BL08/BL06/BL12/BL09/BL02/BL01/BL03/BL07/BL05/BL04/BL
+st111a.xls,st991b.xls,BL03F,somente no arquivo_1,BL08/BL06/BL09/BL02/BL01/BL03/BL07/BL05/BL04/BL
+st111a.xls,st991b.xls,BL03M,somente no arquivo_1,BL08/BL06/BL09/BL02/BL01/BL03/BL07/BL05/BL04/BL
+st111a.xls,st991b.xls,BL04F,somente no arquivo_1,BL08/BL06/BL09/BL02/BL01/BL03/BL07/BL05/BL04/BL
+st111a.xls,st991b.xls,BL04M,somente no arquivo_1,BL08/BL06/BL09/BL02/BL01/BL03/BL07/BL05/BL04/BL
+st111a.xls,st991b.xls,BL05F,somente no arquivo_1,BL08/BL06/BL09/BL02/BL01/BL03/BL07/BL05/BL04/BL
+st111a.xls,st991b.xls,BL05M,somente no arquivo_1,BL08/BL06/BL09/BL02/BL01/BL03/BL07/BL05/BL04/BL
+st111a.xls,st991b.xls,BL06F,somente no arquivo_1,BL08/BL06/BL09/BL02/BL01/BL03/BL07/BL05/BL04/BL
+st111a.xls,st991b.xls,BL06M,somente no arquivo_1,BL08/BL06/BL09/BL02/BL01/BL03/BL07/BL05/BL04/BL
+st111a.xls,st991b.xls,BL07F,somente no arquivo_1,BL08/BL06/BL09/BL02/BL01/BL03/BL07/BL05/BL04/BL
+st111a.xls,st991b.xls,BL07M,somente no arquivo_1,BL08/BL06/BL09/BL02/BL01/BL03/BL07/BL05/BL04/BL
+st111a.xls,st991b.xls,BL08F,somente no arquivo_1,BL08/BL06/BL09/BL02/BL01/BL03/BL07/BL05/BL04/BL
+st111a.xls,st991b.xls,BL08M,somente no arquivo_1,BL08/BL06/BL09/BL02/BL01/BL03/BL07/BL05/BL04/BL
+st111a.xls,st991b.xls,BL09F,somente no arquivo_1,BL08/BL06/BL09/BL02/BL01/BL03/BL07/BL05/BL04/BL
+st111a.xls,st991b.xls,BL09M,somente no arquivo_1,BL08/BL06/BL09/BL02/BL01/BL03/BL07/BL05/BL04/BL
+st111a.xls,st991b.xls,BL10F,somente no arquivo_1,BL08/BL06/BL12/BL09/BL02/BL01/BL03/BL07/BL10/BL05/BL04/BL/BL11
+st111a.xls,st991b.xls,BL10M,somente no arquivo_1,BL08/BL06/BL12/BL09/BL02/BL01/BL03/BL07/BL10/BL05/BL04/BL/BL11
+st111a.xls,st991b.xls,BL11F,somente no arquivo_1,BL12/BL01/BL10/BL/BL11
+st111a.xls,st991b.xls,BL11M,somente no arquivo_1,BL12/BL01/BL10/BL/BL11
+st111a.xls,st991b.xls,BL12F,somente no arquivo_1,BL12/BL02/BL10/BL/BL11
+st111a.xls,st991b.xls,BL12M,somente no arquivo_1,BL12/BL02/BL10/BL/BL11
+st111a.xls,st991b.xls,BLKGF,somente no arquivo_1,BLUG/BLKG/BL
+st111a.xls,st991b.xls,BLKGM,somente no arquivo_1,BLUG/BLKG/BL
+st111a.xls,st991b.xls,BLPKF,somente no arquivo_1,BLPK/BLKG/BL
+st111a.xls,st991b.xls,BLPKM,somente no arquivo_1,BLPK/BLKG/BL
+st111a.xls,st991b.xls,BLUGF,somente no arquivo_1,BLUG/BLKG/BL/BLEQUIV
+st111a.xls,st991b.xls,BLUGM,somente no arquivo_1,BLUG/BLKG/BL
+st111a.xls,st991b.xls,HI01F,somente no arquivo_1,HI01/HI11/HI/HI02/HI07/HI04/HI05/HI12/HI08/HI03/HI09/HI06/HI10
+st111a.xls,st991b.xls,HI01M,somente no arquivo_1,HI01/HI11/HI/HI02/HI07/HI04/HI05/HI12/HI08/HI03/HI09/HI06/HI10
+st111a.xls,st991b.xls,HI02F,somente no arquivo_1,HI01/HI/HI02/HI07/HI04/HI05/HI12/HI08/HI03/HI09/HI06
+st111a.xls,st991b.xls,HI02M,somente no arquivo_1,HI01/HI/HI02/HI07/HI04/HI05/HI12/HI08/HI03/HI09/HI06
+st111a.xls,st991b.xls,HI03F,somente no arquivo_1,HI01/HI/HI02/HI07/HI04/HI05/HI08/HI03/HI09/HI06
+st111a.xls,st991b.xls,HI03M,somente no arquivo_1,HI01/HI/HI02/HI07/HI04/HI05/HI08/HI03/HI09/HI06
+st111a.xls,st991b.xls,HI04F,somente no arquivo_1,HI01/HI/HI02/HI07/HI04/HI05/HI08/HI03/HI09/HI06
+st111a.xls,st991b.xls,HI04M,somente no arquivo_1,HI01/HI/HI02/HI07/HI04/HI05/HI08/HI03/HI09/HI06
+st111a.xls,st991b.xls,HI05F,somente no arquivo_1,HI01/HI/HI02/HI07/HI04/HI05/HI08/HI03/HI09/HI06
+st111a.xls,st991b.xls,HI05M,somente no arquivo_1,HI01/HI/HI02/HI07/HI04/HI05/HI08/HI03/HI09/HI06
+st111a.xls,st991b.xls,HI06F,somente no arquivo_1,HI01/HI/HI02/HI07/HI04/HI05/HI08/HI03/HI09/HI06
+st111a.xls,st991b.xls,HI06M,somente no arquivo_1,HI01/HI/HI02/HI07/HI04/HI05/HI08/HI03/HI09/HI06
+st111a.xls,st991b.xls,HI07F,somente no arquivo_1,HI01/HI/HI02/HI07/HI04/HI05/HI08/HI03/HI09/HI06
+st111a.xls,st991b.xls,HI07M,somente no arquivo_1,HI01/HI/HI02/HI07/HI04/HI05/HI08/HI03/HI09/HI06
+st111a.xls,st991b.xls,HI08F,somente no arquivo_1,HI01/HI/HI02/HI07/HI04/HI05/HI08/HI03/HI09/HI06
+st111a.xls,st991b.xls,HI08M,somente no arquivo_1,HI01/HI/HI02/HI07/HI04/HI05/HI08/HI03/HI09/HI06
+st111a.xls,st991b.xls,HI09F,somente no arquivo_1,HI01/HI/HI02/HI07/HI04/HI05/HI08/HI03/HI09/HI06
+st111a.xls,st991b.xls,HI09M,somente no arquivo_1,HI01/HI/HI02/HI07/HI04/HI05/HI08/HI03/HI09/HI06
+st111a.xls,st991b.xls,HI10F,somente no arquivo_1,HI01/HI11/HI/HI02/HI07/HI04/HI05/HI12/HI08/HI03/HI09/HI06/HI10
+st111a.xls,st991b.xls,HI10M,somente no arquivo_1,HI01/HI11/HI/HI02/HI07/HI04/HI05/HI12/HI08/HI03/HI09/HI06/HI10
+st111a.xls,st991b.xls,HI11F,somente no arquivo_1,HI01/HI11/HI/HI12/HI10
+st111a.xls,st991b.xls,HI11M,somente no arquivo_1,HI01/HI11/HI/HI12/HI10
+st111a.xls,st991b.xls,HI12F,somente no arquivo_1,HI11/HI/HI02/HI12/HI10
+st111a.xls,st991b.xls,HI12M,somente no arquivo_1,HI11/HI/HI02/HI12/HI10
+st111a.xls,st991b.xls,HIKGF,somente no arquivo_1,HI/IKG/HIUG/HIKG
+st111a.xls,st991b.xls,HIKGM,somente no arquivo_1,HI/IKG/HIUG/HIKG
+st111a.xls,st991b.xls,HIPKF,somente no arquivo_1,HI/IPK/HIPK/HIKG
+st111a.xls,st991b.xls,HIPKM,somente no arquivo_1,HI/IPK/HIPK/HIKG
+st111a.xls,st991b.xls,HIUGF,somente no arquivo_1,HI/IUG/HIEQUIV/HIUG/HIKG
+st111a.xls,st991b.xls,HIUGM,somente no arquivo_1,HI/IUG/HIUG/HIKG
+st111a.xls,st991b.xls,HP01F,somente no arquivo_1,HI01
+st111a.xls,st991b.xls,HP01M,somente no arquivo_1,HI01
+st111a.xls,st991b.xls,HP02F,somente no arquivo_1,HI02
+st111a.xls,st991b.xls,HP02M,somente no arquivo_1,HI02
+st111a.xls,st991b.xls,HP03F,somente no arquivo_1,HI03
+st111a.xls,st991b.xls,HP03M,somente no arquivo_1,HI03
+st111a.xls,st991b.xls,HP04F,somente no arquivo_1,HI04
+st111a.xls,st991b.xls,HP04M,somente no arquivo_1,HI04
+st111a.xls,st991b.xls,HP05F,somente no arquivo_1,HI05
+st111a.xls,st991b.xls,HP05M,somente no arquivo_1,HI05
+st111a.xls,st991b.xls,HP06F,somente no arquivo_1,HI06
+st111a.xls,st991b.xls,HP06M,somente no arquivo_1,HI06
+st111a.xls,st991b.xls,HP07F,somente no arquivo_1,HI07
+st111a.xls,st991b.xls,HP07M,somente no arquivo_1,HI07
+st111a.xls,st991b.xls,HP08F,somente no arquivo_1,HI08
+st111a.xls,st991b.xls,HP08M,somente no arquivo_1,HI08
+st111a.xls,st991b.xls,HP09F,somente no arquivo_1,HI09
+st111a.xls,st991b.xls,HP09M,somente no arquivo_1,HI09
+st111a.xls,st991b.xls,HP10F,somente no arquivo_1,HI10
+st111a.xls,st991b.xls,HP10M,somente no arquivo_1,HI10
+st111a.xls,st991b.xls,HP11F,somente no arquivo_1,HI11
+st111a.xls,st991b.xls,HP11M,somente no arquivo_1,HI11
+st111a.xls,st991b.xls,HP12F,somente no arquivo_1,HI12
+st111a.xls,st991b.xls,HP12M,somente no arquivo_1,HI12
+st111a.xls,st991b.xls,HPKGF,somente no arquivo_1,HIKG
+st111a.xls,st991b.xls,HPKGM,somente no arquivo_1,HIKG
+st111a.xls,st991b.xls,HPPKF,somente no arquivo_1,HIPK
+st111a.xls,st991b.xls,HPPKM,somente no arquivo_1,HIPK
+st111a.xls,st991b.xls,HPUGF,somente no arquivo_1,HIUG
+st111a.xls,st991b.xls,HPUGM,somente no arquivo_1,HIUG
+st111a.xls,st991b.xls,OTHGUI,somente no arquivo_1,OTHDIP/ITOTGUI/IOTHSUP/OTHCOM
+st111a.xls,st991b.xls,TR01F,somente no arquivo_1,
+st111a.xls,st991b.xls,TR01M,somente no arquivo_1,
+st111a.xls,st991b.xls,TR02F,somente no arquivo_1,
+st111a.xls,st991b.xls,TR02M,somente no arquivo_1,
+st111a.xls,st991b.xls,TR03F,somente no arquivo_1,
+st111a.xls,st991b.xls,TR03M,somente no arquivo_1,
+st111a.xls,st991b.xls,TR04F,somente no arquivo_1,
+st111a.xls,st991b.xls,TR04M,somente no arquivo_1,
+st111a.xls,st991b.xls,TR05F,somente no arquivo_1,
+st111a.xls,st991b.xls,TR05M,somente no arquivo_1,
+st111a.xls,st991b.xls,TR06F,somente no arquivo_1,
+st111a.xls,st991b.xls,TR06M,somente no arquivo_1,
+st111a.xls,st991b.xls,TR07F,somente no arquivo_1,
+st111a.xls,st991b.xls,TR07M,somente no arquivo_1,
+st111a.xls,st991b.xls,TR08F,somente no arquivo_1,
+st111a.xls,st991b.xls,TR08M,somente no arquivo_1,
+st111a.xls,st991b.xls,TR09F,somente no arquivo_1,
+st111a.xls,st991b.xls,TR09M,somente no arquivo_1,
+st111a.xls,st991b.xls,TR10F,somente no arquivo_1,
+st111a.xls,st991b.xls,TR10M,somente no arquivo_1,
+st111a.xls,st991b.xls,TR11F,somente no arquivo_1,
+st111a.xls,st991b.xls,TR11M,somente no arquivo_1,
+st111a.xls,st991b.xls,TR12F,somente no arquivo_1,
+st111a.xls,st991b.xls,TR12M,somente no arquivo_1,
+st111a.xls,st991b.xls,TRKGF,somente no arquivo_1,
+st111a.xls,st991b.xls,TRKGM,somente no arquivo_1,
+st111a.xls,st991b.xls,TRPKF,somente no arquivo_1,
+st111a.xls,st991b.xls,TRPKM,somente no arquivo_1,
+st111a.xls,st991b.xls,TRUGF,somente no arquivo_1,
+st111a.xls,st991b.xls,TRUGM,somente no arquivo_1,
+st111a.xls,st991b.xls,WH01F,somente no arquivo_1,WH08/WH04/WH05/WH12/WH06/WH03/WH09/WH/WH02/WH07/WH10/WH11/WH01
+st111a.xls,st991b.xls,WH01M,somente no arquivo_1,WH08/WH04/WH05/WH12/WH06/WH03/WH09/WH/WH02/WH07/WH10/WH11/WH01
+st111a.xls,st991b.xls,WH02F,somente no arquivo_1,WH08/WH04/WH05/WH12/WH06/WH03/WH09/WH/WH02/WH07/WH01
+st111a.xls,st991b.xls,WH02M,somente no arquivo_1,WH08/WH04/WH05/WH12/WH06/WH03/WH09/WH/WH02/WH07/WH01
+st111a.xls,st991b.xls,WH03F,somente no arquivo_1,WH08/WH04/WH05/WH06/WH03/WH09/WH/WH02/WH07/WH01
+st111a.xls,st991b.xls,WH03M,somente no arquivo_1,WH08/WH04/WH05/WH06/WH03/WH09/WH/WH02/WH07/WH01
+st111a.xls,st991b.xls,WH04F,somente no arquivo_1,WH08/WH04/WH05/WH06/WH03/WH09/WH/WH02/WH07/WH01
+st111a.xls,st991b.xls,WH04M,somente no arquivo_1,WH08/WH04/WH05/WH06/WH03/WH09/WH/WH02/WH07/WH01
+st111a.xls,st991b.xls,WH05F,somente no arquivo_1,WH08/WH04/WH05/WH06/WH03/WH09/WH/WH02/WH07/WH01
+st111a.xls,st991b.xls,WH05M,somente no arquivo_1,WH08/WH04/WH05/WH06/WH03/WH09/WH/WH02/WH07/WH01
+st111a.xls,st991b.xls,WH06F,somente no arquivo_1,WH08/WH04/WH05/WH06/WH03/WH09/WH/WH02/WH07/WH01
+st111a.xls,st991b.xls,WH06M,somente no arquivo_1,WH08/WH04/WH05/WH06/WH03/WH09/WH/WH02/WH07/WH01
+st111a.xls,st991b.xls,WH07F,somente no arquivo_1,WH08/WH04/WH05/WH06/WH03/WH09/WH/WH02/WH07/WH01
+st111a.xls,st991b.xls,WH07M,somente no arquivo_1,WH08/WH04/WH05/WH06/WH03/WH09/WH/WH02/WH07/WH01
+st111a.xls,st991b.xls,WH08F,somente no arquivo_1,WH08/WH04/WH05/WH06/WH03/WH09/WH/WH02/WH07/WH01
+st111a.xls,st991b.xls,WH08M,somente no arquivo_1,WH08/WH04/WH05/WH06/WH03/WH09/WH/WH02/WH07/WH01
+st111a.xls,st991b.xls,WH09F,somente no arquivo_1,WH08/WH04/WH05/WH06/WH03/WH09/WH/WH02/WH07/WH01
+st111a.xls,st991b.xls,WH09M,somente no arquivo_1,WH08/WH04/WH05/WH06/WH03/WH09/WH/WH02/WH07/WH01
+st111a.xls,st991b.xls,WH10F,somente no arquivo_1,WH08/WH04/WH05/WH12/WH06/WH03/WH09/WH/WH02/WH07/WH10/WH11/WH01
+st111a.xls,st991b.xls,WH10M,somente no arquivo_1,WH08/WH04/WH05/WH12/WH06/WH03/WH09/WH/WH02/WH07/WH10/WH11/WH01
+st111a.xls,st991b.xls,WH11F,somente no arquivo_1,WH12/WH/WH10/WH11/WH01
+st111a.xls,st991b.xls,WH11M,somente no arquivo_1,WH12/WH/WH10/WH11/WH01
+st111a.xls,st991b.xls,WH12F,somente no arquivo_1,WH12/WH/WH02/WH10/WH11
+st111a.xls,st991b.xls,WH12M,somente no arquivo_1,WH12/WH/WH02/WH10/WH11
+st111a.xls,st991b.xls,WHKGF,somente no arquivo_1,WHKG/WH/WHUG
+st111a.xls,st991b.xls,WHKGM,somente no arquivo_1,WHKG/WH/WHUG
+st111a.xls,st991b.xls,WHPKF,somente no arquivo_1,WHKG/WH/WHPK
+st111a.xls,st991b.xls,WHPKM,somente no arquivo_1,WHKG/WH/WHPK
+st111a.xls,st991b.xls,WHUGF,somente no arquivo_1,WHEQUIV/WHKG/WH/WHUG
+st111a.xls,st991b.xls,WHUGM,somente no arquivo_1,WHKG/WH/WHUG
+st111a.xls,st991b.xls,AM,somente no arquivo_2,AM08M/AM01M/AM12M/AMUGF/AM08F/AM07M/AM09F/AM12F/AM10F/AMPKF/AM07F/AM05M/AM04M/AMPKM/AM10M/AM02F/AM06M/AM03M/AMKGF/AMUGM/AM11F/AM06F/AM03F/AM01F/AMKGM/AM02M/AM11M/AM04F/AM05F/AM09M
+st111a.xls,st991b.xls,AM01,somente no arquivo_2,AM08M/AM01M/AM08F/AM07M/AM09F/AM10F/AM07F/AM05M/AM04M/AM10M/AM02F/AM06M/AM03M/AM11F/AM06F/AM03F/AS01M/AM01F/AS01F/AM02M/AM11M/AM04F/AM05F/AM09M
+st111a.xls,st991b.xls,AM02,somente no arquivo_2,AM08M/AM01M/AM12M/AM08F/AM07M/AM09F/AM12F/AM10F/AM07F/AM05M/AM04M/AM10M/AM02F/AM06M/AM03M/AM06F/AM03F/AM01F/AS02M/AM02M/AM04F/AM05F/AS02F/AM09M
+st111a.xls,st991b.xls,AM03,somente no arquivo_2,AM08M/AM01M/AM08F/AM07M/AM09F/AM10F/AM07F/AM05M/AM04M/AM10M/AM02F/AM06M/AM03M/AM06F/AM03F/AS03F/AM01F/AM02M/AM04F/AM05F/AS03M/AM09M
+st111a.xls,st991b.xls,AM04,somente no arquivo_2,AM08M/AM01M/AM08F/AM07M/AM09F/AS04M/AM10F/AM07F/AM05M/AM04M/AM10M/AM02F/AM06M/AM03M/AM06F/AM03F/AM01F/AM02M/AM04F/AM05F/AS04F/AM09M
+st111a.xls,st991b.xls,AM05,somente no arquivo_2,AM08M/AM01M/AS05F/AM08F/AM07M/AM09F/AM10F/AM07F/AM05M/AM04M/AM10M/AM02F/AM06M/AM03M/AM06F/AM03F/AM01F/AS05M/AM02M/AM04F/AM05F/AM09M
+st111a.xls,st991b.xls,AM06,somente no arquivo_2,AM08M/AM01M/AM08F/AM07M/AM09F/AM10F/AM07F/AM05M/AM04M/AM10M/AM02F/AM06M/AM03M/AM06F/AM03F/AM01F/AS06M/AS06F/AM02M/AM04F/AM05F/AM09M
+st111a.xls,st991b.xls,AM07,somente no arquivo_2,AM08M/AM01M/AM08F/AM07M/AM09F/AM10F/AM07F/AM05M/AM04M/AM10M/AM02F/AM06M/AM03M/AM06F/AM03F/AM01F/AS07M/AM02M/AM04F/AM05F/AS07F/AM09M
+st111a.xls,st991b.xls,AM08,somente no arquivo_2,AM08M/AM01M/AM08F/AM07M/AM09F/AS08M/AS08F/AM10F/AM07F/AM05M/AM04M/AM10M/AM02F/AM06M/AM03M/AM06F/AM03F/AM01F/AM02M/AM04F/AM05F/AM09M
+st111a.xls,st991b.xls,AM09,somente no arquivo_2,AM08M/AM01M/AM08F/AM07M/AM09F/AM10F/AS09M/AM07F/AM05M/AM04M/AM10M/AM02F/AM06M/AM03M/AM06F/AM03F/AS09F/AM01F/AM02M/AM04F/AM05F/AM09M
+st111a.xls,st991b.xls,AM10,somente no arquivo_2,AM01M/AM12M/AM12F/AM10F/AS10F/AM10M/AM11F/AM01F/AM11M/AS10M
+st111a.xls,st991b.xls,AM11,somente no arquivo_2,AM01M/AM12M/AS11F/AM12F/AM10F/AM10M/AS11M/AM11F/AM01F/AM11M
+st111a.xls,st991b.xls,AM12,somente no arquivo_2,AM01M/AM12M/AM12F/AM10F/AM10M/AM02F/AM11F/AS12F/AM01F/AS12M/AM02M/AM11M
+st111a.xls,st991b.xls,AMEQUIV,somente no arquivo_2,AMUGF
+st111a.xls,st991b.xls,AMKG,somente no arquivo_2,AMUGF/ASKGM/AMPKF/AMPKM/AMKGF/AMUGM/AMKGM/ASKGF
+st111a.xls,st991b.xls,AMODIP,somente no arquivo_2,
+st111a.xls,st991b.xls,AMOHC,somente no arquivo_2,
+st111a.xls,st991b.xls,AMPK,somente no arquivo_2,AMPKF/ASPKF/ASPKM/AMPKM
+st111a.xls,st991b.xls,AMREGDIP,somente no arquivo_2,
+st111a.xls,st991b.xls,AMUG,somente no arquivo_2,ASUGM/AMUGF/AMKGF/AMUGM/ASUGF/AMKGM
+st111a.xls,st991b.xls,AS,somente no arquivo_2,ASUGM/AS05F/ASKGM/AS08M/AS11F/AS08F/AS04M/AS09M/ASPKF/ASPKM/AS10F/AS11M/AS12F/ASUGF/AS09F/AS01M/AS03F/AS06M/AS12M/AS05M/AS02M/AS06F/AS07M/AS01F/AS10M/AS03M/ASKGF/AS02F/AS04F/AS07F
+st111a.xls,st991b.xls,AS01,somente no arquivo_2,AM01M/AS05F/AS08M/AS11F/AS08F/AS04M/AS09M/AS10F/AS11M/AS09F/AS01M/AS03F/AM01F/AS06M/AS05M/AS02M/AS06F/AS07M/AS01F/AS10M/AS03M/AS02F/AS04F/AS07F
+st111a.xls,st991b.xls,AS02,somente no arquivo_2,AS05F/AS08M/AS08F/AS04M/AS09M/AS10F/AM02F/AS12F/AS09F/AS01M/AS03F/AS06M/AS12M/AS05M/AS02M/AS06F/AS07M/AS01F/AM02M/AS10M/AS03M/AS02F/AS04F/AS07F
+st111a.xls,st991b.xls,AS03,somente no arquivo_2,AS05F/AS08M/AS08F/AS04M/AS09M/AS10F/AM03M/AM03F/AS09F/AS01M/AS03F/AS06M/AS05M/AS02M/AS06F/AS07M/AS01F/AS10M/AS03M/AS02F/AS04F/AS07F
+st111a.xls,st991b.xls,AS04,somente no arquivo_2,AS05F/AS08M/AS08F/AS04M/AS09M/AM04M/AS10F/AS09F/AS01M/AS03F/AS06M/AS05M/AS02M/AS06F/AS07M/AS01F/AS10M/AM04F/AS03M/AS02F/AS04F/AS07F
+st111a.xls,st991b.xls,AS05,somente no arquivo_2,AS05F/AS08M/AS08F/AS04M/AS09M/AM05M/AS10F/AS09F/AS01M/AS03F/AS06M/AS05M/AS02M/AS06F/AS07M/AS01F/AS10M/AM05F/AS03M/AS02F/AS04F/AS07F
+st111a.xls,st991b.xls,AS06,somente no arquivo_2,AS05F/AS08M/AS08F/AS04M/AS09M/AS10F/AM06M/AM06F/AS09F/AS01M/AS03F/AS06M/AS05M/AS02M/AS06F/AS07M/AS01F/AS10M/AS03M/AS02F/AS04F/AS07F
+st111a.xls,st991b.xls,AS07,somente no arquivo_2,AS05F/AM07M/AS08M/AS08F/AS04M/AS09M/AM07F/AS10F/AS09F/AS01M/AS03F/AS06M/AS05M/AS02M/AS06F/AS07M/AS01F/AS10M/AS03M/AS02F/AS04F/AS07F
+st111a.xls,st991b.xls,AS08,somente no arquivo_2,AM08M/AS05F/AM08F/AS08M/AS08F/AS04M/AS09M/AS10F/AS09F/AS01M/AS03F/AS06M/AS05M/AS02M/AS06F/AS07M/AS01F/AS10M/AS03M/AS02F/AS04F/AS07F
+st111a.xls,st991b.xls,AS09,somente no arquivo_2,AS05F/AM09F/AS08M/AS08F/AS04M/AS09M/AS10F/AS09F/AS01M/AS03F/AS06M/AS05M/AS02M/AS06F/AS07M/AS01F/AS10M/AS03M/AS02F/AS04F/AS07F/AM09M
+st111a.xls,st991b.xls,AS10,somente no arquivo_2,AS11F/AM10F/AS10F/AM10M/AS11M/AS12F/AS01M/AS12M/AS01F/AS10M
+st111a.xls,st991b.xls,AS11,somente no arquivo_2,AS11F/AS10F/AS11M/AM11F/AS12F/AS01M/AS12M/AS01F/AM11M/AS10M
+st111a.xls,st991b.xls,AS12,somente no arquivo_2,AM12M/AS11F/AM12F/AS10F/AS11M/AS12F/AS01M/AS12M/AS02M/AS01F/AS10M/AS02F
+st111a.xls,st991b.xls,ASEQUIV,somente no arquivo_2,ASUGF
+st111a.xls,st991b.xls,ASKG,somente no arquivo_2,ASUGM/ASKGM/ASPKF/ASPKM/AMKGF/ASUGF/AMKGM/ASKGF
+st111a.xls,st991b.xls,ASODIP,somente no arquivo_2,
+st111a.xls,st991b.xls,ASOHC,somente no arquivo_2,
+st111a.xls,st991b.xls,ASPK,somente no arquivo_2,AMPKF/ASPKF/ASPKM/AMPKM
+st111a.xls,st991b.xls,ASREGDIP,somente no arquivo_2,
+st111a.xls,st991b.xls,ASUG,somente no arquivo_2,ASUGM/AMUGF/ASKGM/AMUGM/ASUGF/ASKGF
+st111a.xls,st991b.xls,BL,somente no arquivo_2,BL07M/BL09F/BL04F/BLPKF/BL02F/BL02M/BLKGF/BL09M/BL06F/BL11F/BL05M/BLPKM/BL01M/BL08M/BL08F/BL12F/BL04M/BLUGF/BLUGM/BL05F/BL03F/BL10M/BL12M/BL03M/BLKGM/BL07F/BL10F/BL06M/BL11M/BL01F
+st111a.xls,st991b.xls,BL01,somente no arquivo_2,BL07M/BL09F/BL04F/BL02F/BL02M/BL09M/BL06F/BL11F/BL05M/BL01M/BL08M/BL08F/BL04M/BL05F/BL03F/BL10M/BL03M/BL07F/BL10F/BL06M/BL11M/BL01F
+st111a.xls,st991b.xls,BL02,somente no arquivo_2,BL07M/BL09F/BL04F/BL02F/BL02M/BL09M/BL06F/BL05M/BL01M/BL08M/BL08F/BL12F/BL04M/BL05F/BL03F/BL10M/BL12M/BL03M/BL07F/BL10F/BL06M/BL01F
+st111a.xls,st991b.xls,BL03,somente no arquivo_2,BL07M/BL09F/BL04F/BL02F/BL02M/BL09M/BL06F/BL05M/BL01M/BL08M/BL08F/BL04M/BL05F/BL03F/BL10M/BL03M/BL07F/BL10F/BL06M/BL01F
+st111a.xls,st991b.xls,BL04,somente no arquivo_2,BL07M/BL09F/BL04F/BL02F/BL02M/BL09M/BL06F/BL05M/BL01M/BL08M/BL08F/BL04M/BL05F/BL03F/BL10M/BL03M/BL07F/BL10F/BL06M/BL01F
+st111a.xls,st991b.xls,BL05,somente no arquivo_2,BL07M/BL09F/BL04F/BL02F/BL02M/BL09M/BL06F/BL05M/BL01M/BL08M/BL08F/BL04M/BL05F/BL03F/BL10M/BL03M/BL07F/BL10F/BL06M/BL01F
+st111a.xls,st991b.xls,BL06,somente no arquivo_2,BL07M/BL09F/BL04F/BL02F/BL02M/BL09M/BL06F/BL05M/BL01M/BL08M/BL08F/BL04M/BL05F/BL03F/BL10M/BL03M/BL07F/BL10F/BL06M/BL01F
+st111a.xls,st991b.xls,BL07,somente no arquivo_2,BL07M/BL09F/BL04F/BL02F/BL02M/BL09M/BL06F/BL05M/BL01M/BL08M/BL08F/BL04M/BL05F/BL03F/BL10M/BL03M/BL07F/BL10F/BL06M/BL01F
+st111a.xls,st991b.xls,BL08,somente no arquivo_2,BL07M/BL09F/BL04F/BL02F/BL02M/BL09M/BL06F/BL05M/BL01M/BL08M/BL08F/BL04M/BL05F/BL03F/BL10M/BL03M/BL07F/BL10F/BL06M/BL01F
+st111a.xls,st991b.xls,BL09,somente no arquivo_2,BL07M/BL09F/BL04F/BL02F/BL02M/BL09M/BL06F/BL05M/BL01M/BL08M/BL08F/BL04M/BL05F/BL03F/BL10M/BL03M/BL07F/BL10F/BL06M/BL01F
+st111a.xls,st991b.xls,BL10,somente no arquivo_2,BL11F/BL01M/BL12F/BL10M/BL12M/BL10F/BL11M/BL01F
+st111a.xls,st991b.xls,BL11,somente no arquivo_2,BL11F/BL01M/BL12F/BL10M/BL12M/BL10F/BL11M/BL01F
+st111a.xls,st991b.xls,BL12,somente no arquivo_2,BL02F/BL02M/BL11F/BL01M/BL12F/BL10M/BL12M/BL10F/BL11M/BL01F
+st111a.xls,st991b.xls,BLEQUIV,somente no arquivo_2,BLUGF
+st111a.xls,st991b.xls,BLKG,somente no arquivo_2,BLPKF/BLKGF/BLPKM/BLUGF/BLUGM/BLKGM
+st111a.xls,st991b.xls,BLODIP,somente no arquivo_2,
+st111a.xls,st991b.xls,BLOHC,somente no arquivo_2,
+st111a.xls,st991b.xls,BLPK,somente no arquivo_2,BLPKF/BLPKM
+st111a.xls,st991b.xls,BLREGDIP,somente no arquivo_2,
+st111a.xls,st991b.xls,BLUG,somente no arquivo_2,BLKGF/BLUGF/BLUGM/BLKGM
+st111a.xls,st991b.xls,EQUIV,somente no arquivo_2,
+st111a.xls,st991b.xls,HI,somente no arquivo_2,HI01M/HIPKM/HI02M/HIKGF/HI10M/HI09M/HI02F/HI08M/HI03M/HIKGM/HI07F/HIUGF/HI11F/HI11M/HI08F/HI09F/HI06F/HI12F/HI05M/HI06M/HI12M/HI04M/HIUGM/HI04F/HI05F/HI10F/HI01F/HI03F/HI07M/HIPKF
+st111a.xls,st991b.xls,HI01,somente no arquivo_2,HI01M/HI02M/HI10M/HP01F/HI09M/HI02F/HI08M/HI03M/HP01M/HI07F/HI11F/HI11M/HI08F/HI09F/HI06F/HI05M/HI06M/HI04M/HI04F/HI05F/HI10F/HI01F/HI03F/HI07M
+st111a.xls,st991b.xls,HI02,somente no arquivo_2,HI01M/HI02M/HI10M/HI09M/HI02F/HI08M/HI03M/HI07F/HI08F/HI09F/HI06F/HP02F/HI12F/HI05M/HI06M/HI12M/HI04M/HI04F/HI05F/HI10F/HI01F/HI03F/HI07M/HP02M
+st111a.xls,st991b.xls,HI03,somente no arquivo_2,HI01M/HI02M/HI10M/HI09M/HI02F/HI08M/HI03M/HI07F/HP03F/HI08F/HI09F/HI06F/HI05M/HI06M/HP03M/HI04M/HI04F/HI05F/HI10F/HI01F/HI03F/HI07M
+st111a.xls,st991b.xls,HI04,somente no arquivo_2,HI01M/HI02M/HI10M/HI09M/HP04F/HI02F/HI08M/HI03M/HI07F/HP04M/HI08F/HI09F/HI06F/HI05M/HI06M/HI04M/HI04F/HI05F/HI10F/HI01F/HI03F/HI07M
+st111a.xls,st991b.xls,HI05,somente no arquivo_2,HI01M/HI02M/HI10M/HP05M/HI09M/HI02F/HI08M/HI03M/HP05F/HI07F/HI08F/HI09F/HI06F/HI05M/HI06M/HI04M/HI04F/HI05F/HI10F/HI01F/HI03F/HI07M
+st111a.xls,st991b.xls,HI06,somente no arquivo_2,HI01M/HI02M/HI10M/HP06F/HI09M/HI02F/HI08M/HI03M/HI07F/HI08F/HI09F/HI06F/HP06M/HI05M/HI06M/HI04M/HI04F/HI05F/HI10F/HI01F/HI03F/HI07M
+st111a.xls,st991b.xls,HI07,somente no arquivo_2,HI01M/HI02M/HI10M/HI09M/HI02F/HI08M/HI03M/HI07F/HI08F/HI09F/HI06F/HI05M/HI06M/HP07M/HI04M/HI04F/HI05F/HI10F/HP07F/HI01F/HI03F/HI07M
+st111a.xls,st991b.xls,HI08,somente no arquivo_2,HI01M/HI02M/HI10M/HP08F/HI09M/HI02F/HI08M/HI03M/HI07F/HP08M/HI08F/HI09F/HI06F/HI05M/HI06M/HI04M/HI04F/HI05F/HI10F/HI01F/HI03F/HI07M
+st111a.xls,st991b.xls,HI09,somente no arquivo_2,HI01M/HI02M/HI10M/HP09F/HI09M/HI02F/HI08M/HI03M/HI07F/HI08F/HI09F/HI06F/HI05M/HP09M/HI06M/HI04M/HI04F/HI05F/HI10F/HI01F/HI03F/HI07M
+st111a.xls,st991b.xls,HI10,somente no arquivo_2,HI01M/HI10M/HP10F/HI11F/HI11M/HI12F/HI12M/HI10F/HI01F/HP10M
+st111a.xls,st991b.xls,HI11,somente no arquivo_2,HI01M/HI10M/HI11F/HI11M/HP11F/HP11M/HI12F/HI12M/HI10F/HI01F
+st111a.xls,st991b.xls,HI12,somente no arquivo_2,HI01M/HI02M/HI10M/HI02F/HI11F/HI11M/HP12F/HI12F/HI12M/HP12M/HI10F/HI01F
+st111a.xls,st991b.xls,HIEQUIV,somente no arquivo_2,HIUGF
+st111a.xls,st991b.xls,HIKG,somente no arquivo_2,HIPKM/HIKGF/HIKGM/HIUGF/HIUGM/HPKGF/HPKGM/HIPKF
+st111a.xls,st991b.xls,HIODIP,somente no arquivo_2,
+st111a.xls,st991b.xls,HIOHC,somente no arquivo_2,
+st111a.xls,st991b.xls,HIPK,somente no arquivo_2,HIPKM/HPPKF/HPPKM/HIPKF
+st111a.xls,st991b.xls,HIREGDIP,somente no arquivo_2,
+st111a.xls,st991b.xls,HIUG,somente no arquivo_2,HIKGF/HPUGF/HIKGM/HIUGF/HPUGM/HIUGM
+st111a.xls,st991b.xls,IAIDES,somente no arquivo_2,
+st111a.xls,st991b.xls,ICORSUP,somente no arquivo_2,
+st111a.xls,st991b.xls,IELMGUI,somente no arquivo_2,
+st111a.xls,st991b.xls,IELMTCH,somente no arquivo_2,
+st111a.xls,st991b.xls,IG01,somente no arquivo_2,
+st111a.xls,st991b.xls,IG02,somente no arquivo_2,
+st111a.xls,st991b.xls,IG03,somente no arquivo_2,
+st111a.xls,st991b.xls,IG04,somente no arquivo_2,
+st111a.xls,st991b.xls,IG05,somente no arquivo_2,
+st111a.xls,st991b.xls,IG06,somente no arquivo_2,
+st111a.xls,st991b.xls,IG07,somente no arquivo_2,
+st111a.xls,st991b.xls,IG08,somente no arquivo_2,
+st111a.xls,st991b.xls,IG09,somente no arquivo_2,
+st111a.xls,st991b.xls,IG10,somente no arquivo_2,
+st111a.xls,st991b.xls,IG11,somente no arquivo_2,
+st111a.xls,st991b.xls,IG12,somente no arquivo_2,
+st111a.xls,st991b.xls,IKG,somente no arquivo_2,HIKGF/HIKGM
+st111a.xls,st991b.xls,IKGTCH,somente no arquivo_2,
+st111a.xls,st991b.xls,ILEAADM,somente no arquivo_2,
+st111a.xls,st991b.xls,ILEASUP,somente no arquivo_2,
+st111a.xls,st991b.xls,ILIBSPE,somente no arquivo_2,
+st111a.xls,st991b.xls,ILIBSUP,somente no arquivo_2,
+st111a.xls,st991b.xls,IMEMBER,somente no arquivo_2,
+st111a.xls,st991b.xls,IOTHSUP,somente no arquivo_2,OTHGUI
+st111a.xls,st991b.xls,IPK,somente no arquivo_2,HIPKM/HIPKF
+st111a.xls,st991b.xls,IPKTCH,somente no arquivo_2,
+st111a.xls,st991b.xls,ISCHADM,somente no arquivo_2,
+st111a.xls,st991b.xls,ISCHSUP,somente no arquivo_2,
+st111a.xls,st991b.xls,ISECGUI,somente no arquivo_2,
+st111a.xls,st991b.xls,ISECTCH,somente no arquivo_2,
+st111a.xls,st991b.xls,ISTUSUP,somente no arquivo_2,
+st111a.xls,st991b.xls,ITOTGUI,somente no arquivo_2,OTHGUI
+st111a.xls,st991b.xls,ITOTTCH,somente no arquivo_2,
+st111a.xls,st991b.xls,IUG,somente no arquivo_2,HIUGF/HIUGM
+st111a.xls,st991b.xls,IUGTCH,somente no arquivo_2,
+st111a.xls,st991b.xls,OTHCOM,somente no arquivo_2,OTHGUI
+st111a.xls,st991b.xls,OTHDIP,somente no arquivo_2,OTHGUI
+st111a.xls,st991b.xls,REGDIP,somente no arquivo_2,
+st111a.xls,st991b.xls,WH,somente no arquivo_2,WH05F/WH08F/WHUGF/WH11M/WHKGF/WH01F/WH10M/WH04M/WHPKF/WH06F/WH03F/WH07M/WH04F/WH10F/WH05M/WH06M/WH02M/WH08M/WH11F/WH12M/WH02F/WH09M/WH09F/WH12F/WH03M/WHKGM/WHPKM/WH07F/WH01M/WHUGM
+st111a.xls,st991b.xls,WH01,somente no arquivo_2,WH05F/WH08F/WH11M/WH01F/WH10M/WH04M/WH06F/WH03F/WH07M/WH04F/WH10F/WH05M/WH06M/WH02M/WH08M/WH11F/WH02F/WH09M/WH09F/WH03M/WH07F/WH01M
+st111a.xls,st991b.xls,WH02,somente no arquivo_2,WH05F/WH08F/WH01F/WH10M/WH04M/WH06F/WH03F/WH07M/WH04F/WH10F/WH05M/WH06M/WH02M/WH08M/WH12M/WH02F/WH09M/WH09F/WH12F/WH03M/WH07F/WH01M
+st111a.xls,st991b.xls,WH03,somente no arquivo_2,WH05F/WH08F/WH01F/WH10M/WH04M/WH06F/WH03F/WH07M/WH04F/WH10F/WH05M/WH06M/WH02M/WH08M/WH02F/WH09M/WH09F/WH03M/WH07F/WH01M
+st111a.xls,st991b.xls,WH04,somente no arquivo_2,WH05F/WH08F/WH01F/WH10M/WH04M/WH06F/WH03F/WH07M/WH04F/WH10F/WH05M/WH06M/WH02M/WH08M/WH02F/WH09M/WH09F/WH03M/WH07F/WH01M
+st111a.xls,st991b.xls,WH05,somente no arquivo_2,WH05F/WH08F/WH01F/WH10M/WH04M/WH06F/WH03F/WH07M/WH04F/WH10F/WH05M/WH06M/WH02M/WH08M/WH02F/WH09M/WH09F/WH03M/WH07F/WH01M
+st111a.xls,st991b.xls,WH06,somente no arquivo_2,WH05F/WH08F/WH01F/WH10M/WH04M/WH06F/WH03F/WH07M/WH04F/WH10F/WH05M/WH06M/WH02M/WH08M/WH02F/WH09M/WH09F/WH03M/WH07F/WH01M
+st111a.xls,st991b.xls,WH07,somente no arquivo_2,WH05F/WH08F/WH01F/WH10M/WH04M/WH06F/WH03F/WH07M/WH04F/WH10F/WH05M/WH06M/WH02M/WH08M/WH02F/WH09M/WH09F/WH03M/WH07F/WH01M
+st111a.xls,st991b.xls,WH08,somente no arquivo_2,WH05F/WH08F/WH01F/WH10M/WH04M/WH06F/WH03F/WH07M/WH04F/WH10F/WH05M/WH06M/WH02M/WH08M/WH02F/WH09M/WH09F/WH03M/WH07F/WH01M
+st111a.xls,st991b.xls,WH09,somente no arquivo_2,WH05F/WH08F/WH01F/WH10M/WH04M/WH06F/WH03F/WH07M/WH04F/WH10F/WH05M/WH06M/WH02M/WH08M/WH02F/WH09M/WH09F/WH03M/WH07F/WH01M
+st111a.xls,st991b.xls,WH10,somente no arquivo_2,WH11M/WH01F/WH10M/WH10F/WH11F/WH12M/WH12F/WH01M
+st111a.xls,st991b.xls,WH11,somente no arquivo_2,WH11M/WH01F/WH10M/WH10F/WH11F/WH12M/WH12F/WH01M
+st111a.xls,st991b.xls,WH12,somente no arquivo_2,WH11M/WH01F/WH10M/WH10F/WH02M/WH11F/WH12M/WH02F/WH12F/WH01M
+st111a.xls,st991b.xls,WHEQUIV,somente no arquivo_2,WHUGF
+st111a.xls,st991b.xls,WHKG,somente no arquivo_2,WHUGF/WHKGF/WHPKF/WHKGM/WHPKM/WHUGM
+st111a.xls,st991b.xls,WHODIP,somente no arquivo_2,
+st111a.xls,st991b.xls,WHOHC,somente no arquivo_2,
+st111a.xls,st991b.xls,WHPK,somente no arquivo_2,WHPKF/WHPKM
+st111a.xls,st991b.xls,WHREGDIP,somente no arquivo_2,
+st111a.xls,st991b.xls,WHUG,somente no arquivo_2,WHUGF/WHKGF/WHKGM/WHUGM
+st861b.xls,st991b.xls,CITY,presente em ambos arquivos,
+st861b.xls,st991b.xls,PHONE,presente em ambos arquivos,
+st861b.xls,st991b.xls,SEANAME,presente em ambos arquivos,
+st861b.xls,st991b.xls,STABR,presente em ambos arquivos,
+st861b.xls,st991b.xls,STREET,presente em ambos arquivos,
+st861b.xls,st991b.xls,SURVYEAR,presente em ambos arquivos,
+st861b.xls,st991b.xls,ZIP,presente em ambos arquivos,
+st861b.xls,st991b.xls,All other support services staff,somente no arquivo_1,
+st861b.xls,st991b.xls,Elementary Teachers,somente no arquivo_1,
+st861b.xls,st991b.xls,Elem Guidance Counselors,somente no arquivo_1,
+st861b.xls,st991b.xls,FIPS,somente no arquivo_1,ZIP4/IPK/FIPST/HIPK
+st861b.xls,st991b.xls,Grade 10 Students,somente no arquivo_1,
+st861b.xls,st991b.xls,Grade 11 Students,somente no arquivo_1,
+st861b.xls,st991b.xls,Grade 12 Students,somente no arquivo_1,
+st861b.xls,st991b.xls,Grade 1 Students,somente no arquivo_1,
+st861b.xls,st991b.xls,Grade 2 Students,somente no arquivo_1,
+st861b.xls,st991b.xls,Grade 3 Students,somente no arquivo_1,
+st861b.xls,st991b.xls,Grade 4 Students,somente no arquivo_1,
+st861b.xls,st991b.xls,Grade 5 Students,somente no arquivo_1,
+st861b.xls,st991b.xls,Grade 6 Students,somente no arquivo_1,
+st861b.xls,st991b.xls,Grade 7 Students,somente no arquivo_1,
+st861b.xls,st991b.xls,Grade 8 Students,somente no arquivo_1,
+st861b.xls,st991b.xls,Grade 9 Students,somente no arquivo_1,
+st861b.xls,st991b.xls,H.S. Equivalency,somente no arquivo_1,EQUIV
+st861b.xls,st991b.xls,Instructional Aides,somente no arquivo_1,AIDES
+st861b.xls,st991b.xls,Kindergarten Students,somente no arquivo_1,
+st861b.xls,st991b.xls,Kindergarten Teachers,somente no arquivo_1,
+st861b.xls,st991b.xls,LEA Administrative Support Staff,somente no arquivo_1,LEAADM
+st861b.xls,st991b.xls,LEA Administrators,somente no arquivo_1,LEAADM
+st861b.xls,st991b.xls,Librarians,somente no arquivo_1,
+st861b.xls,st991b.xls,Library Support Staff,somente no arquivo_1,
+st861b.xls,st991b.xls,Other Diploma Recipients,somente no arquivo_1,
+st861b.xls,st991b.xls,Other H.S. Completers,somente no arquivo_1,
+st861b.xls,st991b.xls,Prekindergarten Teachers,somente no arquivo_1,
+st861b.xls,st991b.xls,PreK Students,somente no arquivo_1,
+st861b.xls,st991b.xls,Regular Diploma HS Grad,somente no arquivo_1,
+st861b.xls,st991b.xls,School Administrative Support Staff,somente no arquivo_1,
+st861b.xls,st991b.xls,School Administrators,somente no arquivo_1,
+st861b.xls,st991b.xls,Secondary Guidance Counselor,somente no arquivo_1,
+st861b.xls,st991b.xls,Secondary Teachers,somente no arquivo_1,
+st861b.xls,st991b.xls,STATE,somente no arquivo_1,STNAME
+st861b.xls,st991b.xls,Total Guidance Counselors,somente no arquivo_1,
+st861b.xls,st991b.xls,Total Students,somente no arquivo_1,
+st861b.xls,st991b.xls,Total Teachers,somente no arquivo_1,
+st861b.xls,st991b.xls,Ungraded Students,somente no arquivo_1,
+st861b.xls,st991b.xls,Ungraded Teachers,somente no arquivo_1,
+st861b.xls,st991b.xls,AIDES,somente no arquivo_2,Instructional Aides
+st861b.xls,st991b.xls,AM,somente no arquivo_2,
+st861b.xls,st991b.xls,AM01,somente no arquivo_2,
+st861b.xls,st991b.xls,AM02,somente no arquivo_2,
+st861b.xls,st991b.xls,AM03,somente no arquivo_2,
+st861b.xls,st991b.xls,AM04,somente no arquivo_2,
+st861b.xls,st991b.xls,AM05,somente no arquivo_2,
+st861b.xls,st991b.xls,AM06,somente no arquivo_2,
+st861b.xls,st991b.xls,AM07,somente no arquivo_2,
+st861b.xls,st991b.xls,AM08,somente no arquivo_2,
+st861b.xls,st991b.xls,AM09,somente no arquivo_2,
+st861b.xls,st991b.xls,AM10,somente no arquivo_2,
+st861b.xls,st991b.xls,AM11,somente no arquivo_2,
+st861b.xls,st991b.xls,AM12,somente no arquivo_2,
+st861b.xls,st991b.xls,AMEQUIV,somente no arquivo_2,
+st861b.xls,st991b.xls,AMKG,somente no arquivo_2,
+st861b.xls,st991b.xls,AMODIP,somente no arquivo_2,
+st861b.xls,st991b.xls,AMOHC,somente no arquivo_2,
+st861b.xls,st991b.xls,AMPK,somente no arquivo_2,
+st861b.xls,st991b.xls,AMREGDIP,somente no arquivo_2,
+st861b.xls,st991b.xls,AMUG,somente no arquivo_2,
+st861b.xls,st991b.xls,AS,somente no arquivo_2,
+st861b.xls,st991b.xls,AS01,somente no arquivo_2,
+st861b.xls,st991b.xls,AS02,somente no arquivo_2,
+st861b.xls,st991b.xls,AS03,somente no arquivo_2,
+st861b.xls,st991b.xls,AS04,somente no arquivo_2,
+st861b.xls,st991b.xls,AS05,somente no arquivo_2,
+st861b.xls,st991b.xls,AS06,somente no arquivo_2,
+st861b.xls,st991b.xls,AS07,somente no arquivo_2,
+st861b.xls,st991b.xls,AS08,somente no arquivo_2,
+st861b.xls,st991b.xls,AS09,somente no arquivo_2,
+st861b.xls,st991b.xls,AS10,somente no arquivo_2,
+st861b.xls,st991b.xls,AS11,somente no arquivo_2,
+st861b.xls,st991b.xls,AS12,somente no arquivo_2,
+st861b.xls,st991b.xls,ASEQUIV,somente no arquivo_2,
+st861b.xls,st991b.xls,ASKG,somente no arquivo_2,
+st861b.xls,st991b.xls,ASODIP,somente no arquivo_2,
+st861b.xls,st991b.xls,ASOHC,somente no arquivo_2,
+st861b.xls,st991b.xls,ASPK,somente no arquivo_2,
+st861b.xls,st991b.xls,ASREGDIP,somente no arquivo_2,
+st861b.xls,st991b.xls,ASUG,somente no arquivo_2,
+st861b.xls,st991b.xls,BL,somente no arquivo_2,
+st861b.xls,st991b.xls,BL01,somente no arquivo_2,
+st861b.xls,st991b.xls,BL02,somente no arquivo_2,
+st861b.xls,st991b.xls,BL03,somente no arquivo_2,
+st861b.xls,st991b.xls,BL04,somente no arquivo_2,
+st861b.xls,st991b.xls,BL05,somente no arquivo_2,
+st861b.xls,st991b.xls,BL06,somente no arquivo_2,
+st861b.xls,st991b.xls,BL07,somente no arquivo_2,
+st861b.xls,st991b.xls,BL08,somente no arquivo_2,
+st861b.xls,st991b.xls,BL09,somente no arquivo_2,
+st861b.xls,st991b.xls,BL10,somente no arquivo_2,
+st861b.xls,st991b.xls,BL11,somente no arquivo_2,
+st861b.xls,st991b.xls,BL12,somente no arquivo_2,
+st861b.xls,st991b.xls,BLEQUIV,somente no arquivo_2,
+st861b.xls,st991b.xls,BLKG,somente no arquivo_2,
+st861b.xls,st991b.xls,BLODIP,somente no arquivo_2,
+st861b.xls,st991b.xls,BLOHC,somente no arquivo_2,
+st861b.xls,st991b.xls,BLPK,somente no arquivo_2,
+st861b.xls,st991b.xls,BLREGDIP,somente no arquivo_2,
+st861b.xls,st991b.xls,BLUG,somente no arquivo_2,
+st861b.xls,st991b.xls,CORSUP,somente no arquivo_2,
+st861b.xls,st991b.xls,ELMGUI,somente no arquivo_2,
+st861b.xls,st991b.xls,ELMTCH,somente no arquivo_2,
+st861b.xls,st991b.xls,EQUIV,somente no arquivo_2,H.S. Equivalency
+st861b.xls,st991b.xls,FIPST,somente no arquivo_2,FIPS
+st861b.xls,st991b.xls,G01,somente no arquivo_2,
+st861b.xls,st991b.xls,G02,somente no arquivo_2,
+st861b.xls,st991b.xls,G03,somente no arquivo_2,
+st861b.xls,st991b.xls,G04,somente no arquivo_2,
+st861b.xls,st991b.xls,G05,somente no arquivo_2,
+st861b.xls,st991b.xls,G06,somente no arquivo_2,
+st861b.xls,st991b.xls,G07,somente no arquivo_2,
+st861b.xls,st991b.xls,G08,somente no arquivo_2,
+st861b.xls,st991b.xls,G09,somente no arquivo_2,
+st861b.xls,st991b.xls,G10,somente no arquivo_2,
+st861b.xls,st991b.xls,G11,somente no arquivo_2,
+st861b.xls,st991b.xls,G12,somente no arquivo_2,
+st861b.xls,st991b.xls,HI,somente no arquivo_2,
+st861b.xls,st991b.xls,HI01,somente no arquivo_2,
+st861b.xls,st991b.xls,HI02,somente no arquivo_2,
+st861b.xls,st991b.xls,HI03,somente no arquivo_2,
+st861b.xls,st991b.xls,HI04,somente no arquivo_2,
+st861b.xls,st991b.xls,HI05,somente no arquivo_2,
+st861b.xls,st991b.xls,HI06,somente no arquivo_2,
+st861b.xls,st991b.xls,HI07,somente no arquivo_2,
+st861b.xls,st991b.xls,HI08,somente no arquivo_2,
+st861b.xls,st991b.xls,HI09,somente no arquivo_2,
+st861b.xls,st991b.xls,HI10,somente no arquivo_2,
+st861b.xls,st991b.xls,HI11,somente no arquivo_2,
+st861b.xls,st991b.xls,HI12,somente no arquivo_2,
+st861b.xls,st991b.xls,HIEQUIV,somente no arquivo_2,
+st861b.xls,st991b.xls,HIKG,somente no arquivo_2,
+st861b.xls,st991b.xls,HIODIP,somente no arquivo_2,
+st861b.xls,st991b.xls,HIOHC,somente no arquivo_2,
+st861b.xls,st991b.xls,HIPK,somente no arquivo_2,FIPS
+st861b.xls,st991b.xls,HIREGDIP,somente no arquivo_2,
+st861b.xls,st991b.xls,HIUG,somente no arquivo_2,
+st861b.xls,st991b.xls,IAIDES,somente no arquivo_2,
+st861b.xls,st991b.xls,ICORSUP,somente no arquivo_2,
+st861b.xls,st991b.xls,IELMGUI,somente no arquivo_2,
+st861b.xls,st991b.xls,IELMTCH,somente no arquivo_2,
+st861b.xls,st991b.xls,IG01,somente no arquivo_2,
+st861b.xls,st991b.xls,IG02,somente no arquivo_2,
+st861b.xls,st991b.xls,IG03,somente no arquivo_2,
+st861b.xls,st991b.xls,IG04,somente no arquivo_2,
+st861b.xls,st991b.xls,IG05,somente no arquivo_2,
+st861b.xls,st991b.xls,IG06,somente no arquivo_2,
+st861b.xls,st991b.xls,IG07,somente no arquivo_2,
+st861b.xls,st991b.xls,IG08,somente no arquivo_2,
+st861b.xls,st991b.xls,IG09,somente no arquivo_2,
+st861b.xls,st991b.xls,IG10,somente no arquivo_2,
+st861b.xls,st991b.xls,IG11,somente no arquivo_2,
+st861b.xls,st991b.xls,IG12,somente no arquivo_2,
+st861b.xls,st991b.xls,IKG,somente no arquivo_2,
+st861b.xls,st991b.xls,IKGTCH,somente no arquivo_2,
+st861b.xls,st991b.xls,ILEAADM,somente no arquivo_2,
+st861b.xls,st991b.xls,ILEASUP,somente no arquivo_2,
+st861b.xls,st991b.xls,ILIBSPE,somente no arquivo_2,
+st861b.xls,st991b.xls,ILIBSUP,somente no arquivo_2,
+st861b.xls,st991b.xls,IMEMBER,somente no arquivo_2,
+st861b.xls,st991b.xls,IOTHSUP,somente no arquivo_2,
+st861b.xls,st991b.xls,IPK,somente no arquivo_2,
+st861b.xls,st991b.xls,IPKTCH,somente no arquivo_2,
+st861b.xls,st991b.xls,ISCHADM,somente no arquivo_2,
+st861b.xls,st991b.xls,ISCHSUP,somente no arquivo_2,
+st861b.xls,st991b.xls,ISECGUI,somente no arquivo_2,
+st861b.xls,st991b.xls,ISECTCH,somente no arquivo_2,
+st861b.xls,st991b.xls,ISTUSUP,somente no arquivo_2,
+st861b.xls,st991b.xls,ITOTGUI,somente no arquivo_2,
+st861b.xls,st991b.xls,ITOTTCH,somente no arquivo_2,
+st861b.xls,st991b.xls,IUG,somente no arquivo_2,
+st861b.xls,st991b.xls,IUGTCH,somente no arquivo_2,
+st861b.xls,st991b.xls,KG,somente no arquivo_2,
+st861b.xls,st991b.xls,KGTCH,somente no arquivo_2,
+st861b.xls,st991b.xls,LEAADM,somente no arquivo_2,LEA Administrators/LEA Administrative Support Staff
+st861b.xls,st991b.xls,LEASUP,somente no arquivo_2,
+st861b.xls,st991b.xls,LIBSPE,somente no arquivo_2,
+st861b.xls,st991b.xls,LIBSUP,somente no arquivo_2,
+st861b.xls,st991b.xls,MEMBER,somente no arquivo_2,
+st861b.xls,st991b.xls,OTHCOM,somente no arquivo_2,
+st861b.xls,st991b.xls,OTHDIP,somente no arquivo_2,
+st861b.xls,st991b.xls,OTHSUP,somente no arquivo_2,
+st861b.xls,st991b.xls,PK,somente no arquivo_2,
+st861b.xls,st991b.xls,PKTCH,somente no arquivo_2,
+st861b.xls,st991b.xls,REGDIP,somente no arquivo_2,
+st861b.xls,st991b.xls,SCHADM,somente no arquivo_2,
+st861b.xls,st991b.xls,SCHSUP,somente no arquivo_2,
+st861b.xls,st991b.xls,SECGUI,somente no arquivo_2,
+st861b.xls,st991b.xls,SECTCH,somente no arquivo_2,
+st861b.xls,st991b.xls,STNAME,somente no arquivo_2,STATE
+st861b.xls,st991b.xls,STUSUP,somente no arquivo_2,
+st861b.xls,st991b.xls,TOTGUI,somente no arquivo_2,
+st861b.xls,st991b.xls,TOTTCH,somente no arquivo_2,
+st861b.xls,st991b.xls,UG,somente no arquivo_2,
+st861b.xls,st991b.xls,UGTCH,somente no arquivo_2,
+st861b.xls,st991b.xls,WH,somente no arquivo_2,
+st861b.xls,st991b.xls,WH01,somente no arquivo_2,
+st861b.xls,st991b.xls,WH02,somente no arquivo_2,
+st861b.xls,st991b.xls,WH03,somente no arquivo_2,
+st861b.xls,st991b.xls,WH04,somente no arquivo_2,
+st861b.xls,st991b.xls,WH05,somente no arquivo_2,
+st861b.xls,st991b.xls,WH06,somente no arquivo_2,
+st861b.xls,st991b.xls,WH07,somente no arquivo_2,
+st861b.xls,st991b.xls,WH08,somente no arquivo_2,
+st861b.xls,st991b.xls,WH09,somente no arquivo_2,
+st861b.xls,st991b.xls,WH10,somente no arquivo_2,
+st861b.xls,st991b.xls,WH11,somente no arquivo_2,
+st861b.xls,st991b.xls,WH12,somente no arquivo_2,
+st861b.xls,st991b.xls,WHEQUIV,somente no arquivo_2,
+st861b.xls,st991b.xls,WHKG,somente no arquivo_2,
+st861b.xls,st991b.xls,WHODIP,somente no arquivo_2,
+st861b.xls,st991b.xls,WHOHC,somente no arquivo_2,
+st861b.xls,st991b.xls,WHPK,somente no arquivo_2,
+st861b.xls,st991b.xls,WHREGDIP,somente no arquivo_2,
+st861b.xls,st991b.xls,WHUG,somente no arquivo_2,
+st861b.xls,st991b.xls,ZIP4,somente no arquivo_2,FIPS

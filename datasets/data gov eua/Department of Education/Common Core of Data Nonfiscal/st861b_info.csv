@@ -1,0 +1,47 @@
+Coluna,Tipo
+SURVYEAR,Inteiro
+FIPS,Inteiro
+STABR,String
+SEANAME,String
+STREET,String
+CITY,String
+STATE,String
+ZIP,Inteiro
+PHONE,String
+Prekindergarten Teachers,String
+Kindergarten Teachers,String
+Elementary Teachers,String
+Secondary Teachers,String
+Ungraded Teachers,String
+Total Teachers,String
+Instructional Aides,String
+Elem Guidance Counselors,String
+Secondary Guidance Counselor,String
+Total Guidance Counselors,String
+Librarians,String
+Library Support Staff,String
+LEA Administrators,String
+LEA Administrative Support Staff,String
+School Administrators,String
+School Administrative Support Staff,String
+All other support services staff,String
+PreK Students,String
+Kindergarten Students,String
+Grade 1 Students,String
+Grade 2 Students,String
+Grade 3 Students,String
+Grade 4 Students,String
+Grade 5 Students,String
+Grade 6 Students,String
+Grade 7 Students,String
+Grade 8 Students,String
+Grade 9 Students,String
+Grade 10 Students,String
+Grade 11 Students,String
+Grade 12 Students,String
+Ungraded Students,String
+Total Students,String
+Regular Diploma HS Grad,String
+Other Diploma Recipients,String
+H.S. Equivalency,String
+Other H.S. Completers,String

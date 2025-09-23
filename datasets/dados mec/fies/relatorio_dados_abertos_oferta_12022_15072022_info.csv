@@ -1,0 +1,59 @@
+Coluna,Tipo
+Ano,Inteiro
+Semestre,Inteiro
+Nome Mantenedora,String
+Código e-MEC da Mantenedora,Inteiro
+CNPJ da mantenedora,Inteiro
+Nome da IES,String
+Código e-MEC da IES,Inteiro
+Organização Acadêmica da IES,String
+UF da IES,String
+Município da IES,String
+Nome do Local de oferta,String
+Código do Local de Oferta,Inteiro
+Município do Local de Oferta,String
+UF do Local de Oferta,String
+Nome da Microregião,String
+Código da Microregião,Inteiro
+Código da Mesorregião,Inteiro
+Nome da Mesorregião,String
+Área do conhecimento,String
+Subárea do conhecimento,String
+Cód. Do Grupo de Preferência,Inteiro
+Nota de Corte GP,String
+Código do Curso,Inteiro
+Nome do Curso,String
+Turno,String
+Grau,String
+Conceito,String
+Vagas autorizadas e-mec,Inteiro
+Vagas ofertadas FIES,Inteiro
+Vagas além da Oferta,Inteiro
+Vagas ocupadas,Inteiro
+ Valor bruto do curso ,String
+ 1 Semestre Bruto ,String
+ 2 Semestre Bruto ,String
+ 3 Semestre Bruto ,String
+ 4 Semestre Bruto ,String
+ 5 Semestre Bruto ,String
+ 6 Semestre Bruto ,String
+ 7 Semestre Bruto ,String
+ 8 Semestre Bruto ,String
+ 9 Semestre Bruto ,String
+ 10 Semestre Bruto ,String
+ 11 Semestre Bruto ,String
+ 12 Semestre Bruto ,String
+ Valor bruto do curso para FIES ,String
+Índice de correção - IPCA,String
+ 1 Semestre Fies ,String
+ 2 Semestre Fies ,String
+ 3 Semestre Fies ,String
+ 4 Semestre Fies ,String
+ 5 Semestre Fies ,String
+ 6 Semestre Fies ,String
+ 7 Semestre Fies ,String
+ 8 Semestre Fies ,String
+ 9 Semestre Fies ,String
+ 10 Semestre Fies ,String
+ 11 Semestre Fies ,String
+ 12 Semestre Fies ,String

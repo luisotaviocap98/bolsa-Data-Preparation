@@ -1,0 +1,23 @@
+Coluna,Tipo
+business_id,Inteiro
+business_name,String
+business_address,String
+business_city,String
+business_state,String
+business_postal_code,Hora
+business_latitude,Float
+business_longitude,Float
+business_location,String
+business_phone_number,Float
+inspection_id,String
+inspection_date,String
+inspection_score,Float
+inspection_type,String
+violation_id,String
+violation_description,String
+risk_category,String
+Neighborhoods,Float
+SF Find Neighborhoods,Float
+Current Police Districts,Float
+Current Supervisor Districts,Float
+Analysis Neighborhoods,Float
